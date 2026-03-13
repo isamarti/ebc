@@ -1,0 +1,49 @@
+[gd_scene load_steps=7 format=3 uid="uid://dtjpouagpgmfc"]
+
+[ext_resource type="Texture2D" uid="uid://dmgngpduceyft" path="res://assets/art/interiors/EntradaAyuntamiento.png" id="1_huktj"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_huktj"]
+radius = 51.0968
+height = 349.771
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_huktj"]
+size = Vector2(1236.65, 75.7164)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_843fa"]
+size = Vector2(150.05, 609.032)
+
+[sub_resource type="ConvexPolygonShape2D" id="ConvexPolygonShape2D_fexar"]
+points = PackedVector2Array(-596.129, 141.771, -276.129, 35.1841, -275.097, -120.04, -583.742, -122.109)
+
+[sub_resource type="ConvexPolygonShape2D" id="ConvexPolygonShape2D_gnygq"]
+points = PackedVector2Array(586.839, -183.164, 436.129, -145.91, 332.903, -117.97, 338.065, 32.0796, 420.645, 82.7861, 425.806, -66.2289, 588.903, -82.7861)
+
+[node name="Node2D" type="Node2D"]
+
+[node name="EntradaAyuntamiento" type="Sprite2D" parent="."]
+position = Vector2(577.5, 326)
+scale = Vector2(0.96875, 0.966346)
+texture = ExtResource("1_huktj")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="EntradaAyuntamiento"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D"]
+position = Vector2(484.129, 101.413)
+shape = SubResource("CapsuleShape2D_huktj")
+
+[node name="StaticBody2D2" type="StaticBody2D" parent="EntradaAyuntamiento"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
+position = Vector2(1.5484, 375.211)
+shape = SubResource("RectangleShape2D_huktj")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
+position = Vector2(32.5161, -47.602)
+rotation = -1.5708
+shape = SubResource("RectangleShape2D_843fa")
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
+shape = SubResource("ConvexPolygonShape2D_fexar")
+
+[node name="CollisionShape2D4" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
+shape = SubResource("ConvexPolygonShape2D_gnygq")

@@ -1,4 +1,4 @@
-[gd_scene load_steps=22 format=4 uid="uid://coefavjansrxo"]
+[gd_scene load_steps=23 format=4 uid="uid://coefavjansrxo"]
 
 [ext_resource type="Texture2D" uid="uid://dq3bb47vbsocb" path="res://assets/art/Tiles/RPG Terrains/Outdoor.png" id="1_fndph"]
 [ext_resource type="Texture2D" uid="uid://b3e3qylcaeirx" path="res://assets/art/Tiles/RPG Terrains/wood_tileset.png" id="2_v6bpe"]
@@ -1552,6 +1552,9 @@ texture = ExtResource("1_fndph")
 [sub_resource type="TileSet" id="TileSet_yashq"]
 sources/0 = SubResource("TileSetAtlasSource_v6bpe")
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_jkv2x"]
+size = Vector2(251, 41)
+
 [node name="Node2D" type="Node2D"]
 position = Vector2(391, 214)
 
@@ -1608,6 +1611,12 @@ texture = ExtResource("11_fvla6")
 [node name="Ajuntamiento" type="Sprite2D" parent="."]
 position = Vector2(135, 1552)
 texture = ExtResource("12_fvla6")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="Ajuntamiento"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Ajuntamiento/StaticBody2D"]
+position = Vector2(7.5, -39.5)
+shape = SubResource("RectangleShape2D_jkv2x")
 
 [node name="Columpio" type="Sprite2D" parent="."]
 position = Vector2(3267, -999)
