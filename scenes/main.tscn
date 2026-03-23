@@ -1,4 +1,4 @@
-[gd_scene load_steps=23 format=4 uid="uid://coefavjansrxo"]
+[gd_scene load_steps=26 format=4 uid="uid://coefavjansrxo"]
 
 [ext_resource type="Texture2D" uid="uid://dq3bb47vbsocb" path="res://assets/art/Tiles/RPG Terrains/Outdoor.png" id="1_fndph"]
 [ext_resource type="Texture2D" uid="uid://b3e3qylcaeirx" path="res://assets/art/Tiles/RPG Terrains/wood_tileset.png" id="2_v6bpe"]
@@ -1552,6 +1552,15 @@ texture = ExtResource("1_fndph")
 [sub_resource type="TileSet" id="TileSet_yashq"]
 sources/0 = SubResource("TileSetAtlasSource_v6bpe")
 
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_jbj1t"]
+size = Vector2(89, 173)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_muem4"]
+size = Vector2(66.5, 134)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_dp3eg"]
+size = Vector2(87, 129)
+
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_jkv2x"]
 size = Vector2(251, 41)
 
@@ -1588,6 +1597,12 @@ texture = ExtResource("5_vbn67")
 position = Vector2(-2001, -646)
 texture = ExtResource("6_afjys")
 
+[node name="StaticBody2D" type="StaticBody2D" parent="CasaRoja"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CasaRoja/StaticBody2D"]
+position = Vector2(263.5, 72.5)
+shape = SubResource("RectangleShape2D_jbj1t")
+
 [node name="CasaVerde" type="Sprite2D" parent="."]
 position = Vector2(-479, 724)
 texture = ExtResource("7_62dkq")
@@ -1604,9 +1619,21 @@ texture = ExtResource("9_o0tgp")
 position = Vector2(-1869, -92)
 texture = ExtResource("10_62dkq")
 
+[node name="StaticBody2D" type="StaticBody2D" parent="Supermercado"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Supermercado/StaticBody2D"]
+position = Vector2(265.75, 25)
+shape = SubResource("RectangleShape2D_muem4")
+
 [node name="Colegio" type="Sprite2D" parent="."]
 position = Vector2(2801, -709)
 texture = ExtResource("11_fvla6")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="Colegio"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Colegio/StaticBody2D"]
+position = Vector2(23.5, 258.5)
+shape = SubResource("RectangleShape2D_dp3eg")
 
 [node name="Ajuntamiento" type="Sprite2D" parent="."]
 position = Vector2(135, 1552)
