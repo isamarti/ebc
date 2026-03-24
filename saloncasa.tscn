@@ -1,0 +1,44 @@
+[gd_scene load_steps=6 format=3 uid="uid://ccw0qbidvj0sy"]
+
+[ext_resource type="Texture2D" uid="uid://bfgjke4vmfypl" path="res://assets/art/interiors/SOLÓN-EBC-REAL.png" id="1_jdlw5"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_vsqrk"]
+size = Vector2(111.519, 307.581)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_0qilm"]
+size = Vector2(100.69, 301.688)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_g100s"]
+size = Vector2(1251.23, 90.4391)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_bpg5b"]
+size = Vector2(887.084, 66.5666)
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Solón-ebc-real" type="Sprite2D" parent="."]
+position = Vector2(616.5, 357)
+scale = Vector2(0.986378, 0.848558)
+texture = ExtResource("1_jdlw5")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="Solón-ebc-real"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Solón-ebc-real/StaticBody2D"]
+position = Vector2(502.343, 117.847)
+shape = SubResource("RectangleShape2D_vsqrk")
+
+[node name="StaticBody2D2" type="StaticBody2D" parent="Solón-ebc-real"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Solón-ebc-real/StaticBody2D2"]
+position = Vector2(-501.997, 133.167)
+shape = SubResource("RectangleShape2D_0qilm")
+
+[node name="StaticBody2D3" type="StaticBody2D" parent="Solón-ebc-real"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Solón-ebc-real/StaticBody2D3"]
+position = Vector2(2.44238, 386.976)
+shape = SubResource("RectangleShape2D_g100s")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="Solón-ebc-real/StaticBody2D3"]
+position = Vector2(0.506904, 86.0283)
+shape = SubResource("RectangleShape2D_bpg5b")

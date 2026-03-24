@@ -1,0 +1,42 @@
+[gd_scene load_steps=6 format=3 uid="uid://jc88sb8hx814"]
+
+[ext_resource type="Texture2D" uid="uid://dydvg1g7x3k70" path="res://assets/art/interiors/cocinaebn.png" id="1_xa4oq"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_d1d75"]
+size = Vector2(106.189, 302.336)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_8ndtj"]
+size = Vector2(1238.26, 83.1803)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_s4h2s"]
+size = Vector2(256.135, 185.786)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_7pw35"]
+size = Vector2(759.446, 59.043)
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Cocinaebn" type="Sprite2D" parent="."]
+position = Vector2(593, 363.5)
+scale = Vector2(0.948718, 0.866587)
+texture = ExtResource("1_xa4oq")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="Cocinaebn"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Cocinaebn/StaticBody2D"]
+position = Vector2(478.149, 106.741)
+shape = SubResource("RectangleShape2D_d1d75")
+
+[node name="StaticBody2D2" type="StaticBody2D" parent="Cocinaebn"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Cocinaebn/StaticBody2D2"]
+position = Vector2(-0.398682, 377.967)
+shape = SubResource("RectangleShape2D_8ndtj")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="Cocinaebn/StaticBody2D2"]
+position = Vector2(-355.743, 203.096)
+shape = SubResource("RectangleShape2D_s4h2s")
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="Cocinaebn/StaticBody2D2"]
+position = Vector2(40.3176, 49.043)
+shape = SubResource("RectangleShape2D_7pw35")
