@@ -1,0 +1,63 @@
+[gd_scene load_steps=8 format=3 uid="uid://dgguipxg3lq6k"]
+
+[ext_resource type="Texture2D" uid="uid://ce8imq2mmbdet" path="res://assets/art/interiors/AlcaldeAyunt..png" id="1_tn8k7"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_cw7v6"]
+radius = 54.9242
+height = 308.0
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_htfx5"]
+size = Vector2(1202.91, 32)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_wir0j"]
+size = Vector2(64.418, 520.5)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_uxbrg"]
+size = Vector2(729.271, 69.8504)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_kwpsb"]
+size = Vector2(919.472, 4.74792)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_oqsp4"]
+size = Vector2(455.073, 4.03381)
+
+[node name="Node2D" type="Node2D"]
+
+[node name="AlcaldeAyunt_" type="Sprite2D" parent="."]
+position = Vector2(575.5, 313.5)
+scale = Vector2(0.983173, 0.991587)
+texture = ExtResource("1_tn8k7")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="AlcaldeAyunt_"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="AlcaldeAyunt_/StaticBody2D"]
+position = Vector2(473.467, 84)
+shape = SubResource("CapsuleShape2D_cw7v6")
+
+[node name="StaticBody2D2" type="StaticBody2D" parent="AlcaldeAyunt_"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="AlcaldeAyunt_/StaticBody2D2"]
+position = Vector2(5.25549, 356)
+scale = Vector2(1, 1)
+shape = SubResource("RectangleShape2D_htfx5")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="AlcaldeAyunt_/StaticBody2D2"]
+position = Vector2(618.914, 121.25)
+scale = Vector2(1, 1)
+shape = SubResource("RectangleShape2D_wir0j")
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="AlcaldeAyunt_/StaticBody2D2"]
+position = Vector2(-561.613, 2.52121)
+rotation = 1.5708
+scale = Vector2(1, 1)
+shape = SubResource("RectangleShape2D_uxbrg")
+
+[node name="CollisionShape2D4" type="CollisionShape2D" parent="AlcaldeAyunt_/StaticBody2D2"]
+position = Vector2(-64.5869, -29.0989)
+scale = Vector2(1, 1)
+shape = SubResource("RectangleShape2D_kwpsb")
+
+[node name="CollisionShape2D5" type="CollisionShape2D" parent="AlcaldeAyunt_/StaticBody2D2"]
+position = Vector2(4.87421, 105.386)
+scale = Vector2(0.999999, 0.999999)
+shape = SubResource("RectangleShape2D_oqsp4")

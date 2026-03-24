@@ -1,0 +1,104 @@
+[gd_scene load_steps=14 format=3 uid="uid://dkkbe7ocxfoyp"]
+
+[ext_resource type="Texture2D" uid="uid://w77i6xql0k64" path="res://assets/art/interiors/SupermercadoentradaCaja.png" id="1_6tgba"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_7x4ki"]
+size = Vector2(81.7462, 171.642)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_gnwap"]
+size = Vector2(781.069, 20)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_r5rlc"]
+size = Vector2(222.142, 5.84274)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_agaea"]
+size = Vector2(4.37915, 76.2965)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_qx8w5"]
+size = Vector2(76.0925, 7.92139)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_o8eyl"]
+size = Vector2(158.018, 4.88888)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_woveg"]
+size = Vector2(78.2004, 670.145)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_m5jb1"]
+size = Vector2(281.887, 14.966)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_bxxk3"]
+size = Vector2(140.017, 11.2019)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_llyfr"]
+size = Vector2(62.1553, 8.31447)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ccw44"]
+size = Vector2(20, 79.8415)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_h73da"]
+size = Vector2(16.7642, 412.004)
+
+[node name="EntradaSupermercado" type="Node2D"]
+
+[node name="SupermercadoentradaCaja" type="Sprite2D" parent="."]
+position = Vector2(499, 454.5)
+scale = Vector2(1.61058, 1.20272)
+texture = ExtResource("1_6tgba")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="SupermercadoentradaCaja"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D"]
+position = Vector2(337.033, -68.9106)
+scale = Vector2(1, 1)
+shape = SubResource("RectangleShape2D_7x4ki")
+
+[node name="StaticBody2D2" type="StaticBody2D" parent="SupermercadoentradaCaja"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D2"]
+position = Vector2(13.0388, 159.222)
+scale = Vector2(1, 1)
+shape = SubResource("RectangleShape2D_gnwap")
+
+[node name="StaticBody2D3" type="StaticBody2D" parent="SupermercadoentradaCaja"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D3"]
+position = Vector2(30.4238, -56.1226)
+shape = SubResource("RectangleShape2D_r5rlc")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D3"]
+position = Vector2(138.46, -98.5263)
+shape = SubResource("RectangleShape2D_agaea")
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D3"]
+position = Vector2(175.542, -130.121)
+shape = SubResource("RectangleShape2D_qx8w5")
+
+[node name="CollisionShape2D4" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D3"]
+position = Vector2(218.12, -121.839)
+rotation = 0.15708
+shape = SubResource("RectangleShape2D_o8eyl")
+
+[node name="CollisionShape2D5" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D3"]
+position = Vector2(-406.05, -159.222)
+shape = SubResource("RectangleShape2D_woveg")
+
+[node name="CollisionShape2D6" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D3"]
+position = Vector2(-350.185, -115.155)
+shape = SubResource("RectangleShape2D_m5jb1")
+
+[node name="CollisionShape2D7" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D3"]
+position = Vector2(-193.719, -121.807)
+rotation = -0.15708
+shape = SubResource("RectangleShape2D_bxxk3")
+
+[node name="CollisionShape2D8" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D3"]
+position = Vector2(-92.5463, -131.784)
+shape = SubResource("RectangleShape2D_llyfr")
+
+[node name="CollisionShape2D9" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D3"]
+position = Vector2(-70.1612, -93.549)
+shape = SubResource("RectangleShape2D_ccw44")
+
+[node name="CollisionShape2D10" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D3"]
+position = Vector2(411.033, -32.8421)
+shape = SubResource("RectangleShape2D_h73da")

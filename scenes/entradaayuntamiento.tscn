@@ -1,4 +1,4 @@
-[gd_scene load_steps=7 format=3 uid="uid://dtjpouagpgmfc"]
+[gd_scene load_steps=9 format=3 uid="uid://dtjpouagpgmfc"]
 
 [ext_resource type="Texture2D" uid="uid://dmgngpduceyft" path="res://assets/art/interiors/EntradaAyuntamiento.png" id="1_huktj"]
 
@@ -6,23 +6,29 @@
 radius = 51.0968
 height = 349.771
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_huktj"]
-size = Vector2(1236.65, 75.7164)
-
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_843fa"]
-size = Vector2(178.508, 609.032)
+size = Vector2(133.534, 609.032)
 
 [sub_resource type="ConvexPolygonShape2D" id="ConvexPolygonShape2D_fexar"]
-points = PackedVector2Array(-590.452, 163.503, -276.129, 35.1841, -275.097, -120.04, -583.742, -122.109)
+points = PackedVector2Array(-589.163, 59.4286, -276.65, 17.4789, -275.097, -120.04, -583.742, -122.109)
 
 [sub_resource type="ConvexPolygonShape2D" id="ConvexPolygonShape2D_gnygq"]
-points = PackedVector2Array(586.839, -183.164, 436.129, -145.91, 332.903, -117.97, 338.065, 32.0796, 420.645, 82.7861, 425.806, -66.2289, 588.903, -82.7861)
+points = PackedVector2Array(586.839, -183.164, 436.129, -145.91, 332.903, -117.97, 338.065, 32.0796, 395.507, 53.6022, 425.806, -66.2289, 588.903, -82.7861)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_fexar"]
+size = Vector2(50.5962, 421)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_gnygq"]
+size = Vector2(91.1921, 323.7)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_huktj"]
+size = Vector2(1243.36, 83.9945)
 
 [node name="Node2D" type="Node2D"]
 
 [node name="EntradaAyuntamiento" type="Sprite2D" parent="."]
-position = Vector2(588, 406)
-scale = Vector2(0.96875, 0.966346)
+position = Vector2(585, 357)
+scale = Vector2(0.975962, 0.858173)
 texture = ExtResource("1_huktj")
 
 [node name="StaticBody2D" type="StaticBody2D" parent="EntradaAyuntamiento"]
@@ -33,13 +39,10 @@ shape = SubResource("CapsuleShape2D_huktj")
 
 [node name="StaticBody2D2" type="StaticBody2D" parent="EntradaAyuntamiento"]
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
-position = Vector2(1.5484, 375.211)
-shape = SubResource("RectangleShape2D_huktj")
-
 [node name="CollisionShape2D2" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
-position = Vector2(32.5162, -33.3733)
+position = Vector2(21.5172, -44.627)
 rotation = -1.5708
+scale = Vector2(1, 1)
 shape = SubResource("RectangleShape2D_843fa")
 
 [node name="CollisionShape2D3" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
@@ -47,3 +50,20 @@ shape = SubResource("ConvexPolygonShape2D_fexar")
 
 [node name="CollisionShape2D4" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
 shape = SubResource("ConvexPolygonShape2D_gnygq")
+
+[node name="CollisionShape2D5" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
+position = Vector2(564.889, 128.592)
+scale = Vector2(1, 1)
+shape = SubResource("RectangleShape2D_fexar")
+
+[node name="CollisionShape2D6" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
+position = Vector2(-564.059, 230.601)
+scale = Vector2(1, 1)
+shape = SubResource("RectangleShape2D_gnygq")
+
+[node name="StaticBody2D3" type="StaticBody2D" parent="EntradaAyuntamiento"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D3"]
+position = Vector2(-1.80518, 371.072)
+scale = Vector2(1, 1)
+shape = SubResource("RectangleShape2D_huktj")
