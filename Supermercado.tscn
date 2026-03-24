@@ -1,0 +1,71 @@
+[gd_scene load_steps=10 format=3 uid="uid://d3udhqgb2bd8b"]
+
+[ext_resource type="Texture2D" uid="uid://c5fo1ftde6j81" path="res://assets/art/interiors/Supermercado.png" id="1_tljws"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_y40y6"]
+size = Vector2(781.878, 10.8415)
+
+[sub_resource type="ConvexPolygonShape2D" id="ConvexPolygonShape2D_156kb"]
+points = PackedVector2Array(-99.9199, -9.25693, -24.647, -19.3553, -24.647, 103.509, -129.896, 58.9076, -191.846, 31.9784)
+
+[sub_resource type="ConvexPolygonShape2D" id="ConvexPolygonShape2D_2xvgk"]
+points = PackedVector2Array(21.9823, -3.36615, 139.222, -48.8092, 12.6565, -51.3338, -33.9728, -51.3338, -35.3051, 21.0385)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_fncsg"]
+size = Vector2(378.034, 6.7323)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_806sv"]
+size = Vector2(44.6389, 103.881)
+
+[sub_resource type="ConvexPolygonShape2D" id="ConvexPolygonShape2D_tqwbm"]
+points = PackedVector2Array(19.4863, -32.003, 26.1477, -18.5384, -21.8139, 7.54929, -5.16057, -31.1614)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_lppfe"]
+size = Vector2(9.992, 187.193)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_2jdtt"]
+size = Vector2(19.3179, 291.123)
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Supermercado" type="Sprite2D" parent="."]
+position = Vector2(579, 476)
+scale = Vector2(1.5012, 1.1883)
+texture = ExtResource("1_tljws")
+
+[node name="StaticBody2D" type="StaticBody2D" parent="Supermercado"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Supermercado/StaticBody2D"]
+position = Vector2(2.41275, 151.947)
+shape = SubResource("RectangleShape2D_y40y6")
+
+[node name="StaticBody2D2" type="StaticBody2D" parent="Supermercado"]
+position = Vector2(33.3066, 28.6123)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Supermercado/StaticBody2D2"]
+position = Vector2(380.362, -159.051)
+shape = SubResource("ConvexPolygonShape2D_156kb")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="Supermercado/StaticBody2D2"]
+position = Vector2(-381.028, -66.4815)
+shape = SubResource("ConvexPolygonShape2D_2xvgk")
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="Supermercado/StaticBody2D2"]
+position = Vector2(-25.4775, -148.952)
+shape = SubResource("RectangleShape2D_fncsg")
+
+[node name="CollisionShape2D4" type="CollisionShape2D" parent="Supermercado/StaticBody2D2"]
+position = Vector2(154.543, -94.4872)
+shape = SubResource("RectangleShape2D_806sv")
+
+[node name="CollisionShape2D5" type="CollisionShape2D" parent="Supermercado/StaticBody2D2"]
+position = Vector2(-216.662, -118.632)
+shape = SubResource("ConvexPolygonShape2D_tqwbm")
+
+[node name="CollisionShape2D6" type="CollisionShape2D" parent="Supermercado/StaticBody2D2"]
+position = Vector2(-420.663, 33.4757)
+shape = SubResource("RectangleShape2D_lppfe")
+
+[node name="CollisionShape2D7" type="CollisionShape2D" parent="Supermercado/StaticBody2D2"]
+position = Vector2(353.05, -32.7954)
+shape = SubResource("RectangleShape2D_2jdtt")
