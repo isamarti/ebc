@@ -1,6 +1,6 @@
 [gd_scene load_steps=10 format=3 uid="uid://q2g8v2113qnu"]
 
-[ext_resource type="Texture2D" uid="uid://dkl7kq2kpdnfj" path="res://assets/art/interiors/EntradaCole.png" id="1_btcqe"]
+[ext_resource type="Texture2D" uid="uid://dkl7kq2kpdnfj" path="res://assets/art/interiors/EntradaCole.png" id="1_utm0f"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ctcgo"]
 size = Vector2(170.329, 346.667)
@@ -17,14 +17,14 @@ radius = 54.0728
 height = 108.146
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_wyy4d"]
-radius = 57.3171
+radius = 57.317
 height = 114.634
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_1p6rx"]
 size = Vector2(673.747, 61.6297)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_0cd2n"]
-size = Vector2(174.114, 410.864)
+size = Vector2(163.879, 370.007)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_afypy"]
 size = Vector2(1237.32, 87.8148)
@@ -32,9 +32,9 @@ size = Vector2(1237.32, 87.8148)
 [node name="Node2D" type="Node2D"]
 
 [node name="EntradaCole" type="Sprite2D" parent="."]
-position = Vector2(575, 328)
-scale = Vector2(0.92468, 0.778846)
-texture = ExtResource("1_btcqe")
+position = Vector2(588, 363)
+scale = Vector2(0.945513, 0.862981)
+texture = ExtResource("1_utm0f")
 
 [node name="StaticBody2D" type="StaticBody2D" parent="EntradaCole"]
 
@@ -66,9 +66,10 @@ position = Vector2(137.345, -66.7654)
 shape = SubResource("RectangleShape2D_1p6rx")
 
 [node name="CollisionShape2D6" type="CollisionShape2D" parent="EntradaCole/StaticBody2D2"]
-position = Vector2(-336.873, -130.963)
+position = Vector2(-341.991, -151.392)
+scale = Vector2(1, 1)
 shape = SubResource("RectangleShape2D_0cd2n")
 
 [node name="CollisionShape2D7" type="CollisionShape2D" parent="EntradaCole/StaticBody2D2"]
-position = Vector2(98.3458, 290.426)
+position = Vector2(94.2538, 275.795)
 shape = SubResource("RectangleShape2D_afypy")

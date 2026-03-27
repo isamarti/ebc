@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://ccw0qbidvj0sy"]
 
-[ext_resource type="Texture2D" uid="uid://bfgjke4vmfypl" path="res://assets/art/interiors/SOLÓN-EBC-REAL.png" id="1_jdlw5"]
+[ext_resource type="Texture2D" uid="uid://bfgjke4vmfypl" path="res://assets/art/interiors/SOLÓN-EBC-REAL.png" id="1_bq7h2"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_vsqrk"]
 size = Vector2(111.519, 307.581)
@@ -19,7 +19,7 @@ size = Vector2(887.084, 66.5666)
 [node name="Solón-ebc-real" type="Sprite2D" parent="."]
 position = Vector2(616.5, 357)
 scale = Vector2(0.986378, 0.848558)
-texture = ExtResource("1_jdlw5")
+texture = ExtResource("1_bq7h2")
 
 [node name="StaticBody2D" type="StaticBody2D" parent="Solón-ebc-real"]
 

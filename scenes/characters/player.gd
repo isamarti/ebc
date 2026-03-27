@@ -7,6 +7,7 @@ var direction: Vector2
 
 func _ready() -> void:
 	animation_tree.active=true
+	
 
 @warning_ignore("unused_parameter")
 func _process(delta: float) -> void:

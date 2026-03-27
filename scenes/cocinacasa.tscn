@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://jc88sb8hx814"]
 
-[ext_resource type="Texture2D" uid="uid://dydvg1g7x3k70" path="res://assets/art/interiors/cocinaebn.png" id="1_xa4oq"]
+[ext_resource type="Texture2D" uid="uid://dydvg1g7x3k70" path="res://assets/art/interiors/cocinaebn.png" id="1_lltdb"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_d1d75"]
 size = Vector2(106.189, 302.336)
@@ -19,7 +19,7 @@ size = Vector2(759.446, 59.043)
 [node name="Cocinaebn" type="Sprite2D" parent="."]
 position = Vector2(593, 363.5)
 scale = Vector2(0.948718, 0.866587)
-texture = ExtResource("1_xa4oq")
+texture = ExtResource("1_lltdb")
 
 [node name="StaticBody2D" type="StaticBody2D" parent="Cocinaebn"]
 

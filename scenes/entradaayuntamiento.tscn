@@ -42,7 +42,6 @@ shape = SubResource("CapsuleShape2D_huktj")
 [node name="CollisionShape2D2" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
 position = Vector2(21.5172, -44.627)
 rotation = -1.5708
-scale = Vector2(1, 1)
 shape = SubResource("RectangleShape2D_843fa")
 
 [node name="CollisionShape2D3" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
@@ -53,17 +52,14 @@ shape = SubResource("ConvexPolygonShape2D_gnygq")
 
 [node name="CollisionShape2D5" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
 position = Vector2(564.889, 128.592)
-scale = Vector2(1, 1)
 shape = SubResource("RectangleShape2D_fexar")
 
 [node name="CollisionShape2D6" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D2"]
 position = Vector2(-564.059, 230.601)
-scale = Vector2(1, 1)
 shape = SubResource("RectangleShape2D_gnygq")
 
 [node name="StaticBody2D3" type="StaticBody2D" parent="EntradaAyuntamiento"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="EntradaAyuntamiento/StaticBody2D3"]
 position = Vector2(-1.80518, 371.072)
-scale = Vector2(1, 1)
 shape = SubResource("RectangleShape2D_huktj")

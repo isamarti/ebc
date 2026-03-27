@@ -1,6 +1,6 @@
 [gd_scene load_steps=14 format=3 uid="uid://dkkbe7ocxfoyp"]
 
-[ext_resource type="Texture2D" uid="uid://w77i6xql0k64" path="res://assets/art/interiors/SupermercadoentradaCaja.png" id="1_6tgba"]
+[ext_resource type="Texture2D" uid="uid://w77i6xql0k64" path="res://assets/art/interiors/SupermercadoentradaCaja.png" id="1_dc2b0"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_7x4ki"]
 size = Vector2(81.7462, 171.642)
@@ -43,20 +43,18 @@ size = Vector2(16.7642, 412.004)
 [node name="SupermercadoentradaCaja" type="Sprite2D" parent="."]
 position = Vector2(499, 454.5)
 scale = Vector2(1.61058, 1.20272)
-texture = ExtResource("1_6tgba")
+texture = ExtResource("1_dc2b0")
 
 [node name="StaticBody2D" type="StaticBody2D" parent="SupermercadoentradaCaja"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D"]
 position = Vector2(337.033, -68.9106)
-scale = Vector2(1, 1)
 shape = SubResource("RectangleShape2D_7x4ki")
 
 [node name="StaticBody2D2" type="StaticBody2D" parent="SupermercadoentradaCaja"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D2"]
 position = Vector2(13.0388, 159.222)
-scale = Vector2(1, 1)
 shape = SubResource("RectangleShape2D_gnwap")
 
 [node name="StaticBody2D3" type="StaticBody2D" parent="SupermercadoentradaCaja"]
