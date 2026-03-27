@@ -1,4 +1,4 @@
-[gd_scene load_steps=68 format=4 uid="uid://brgyrvhi34ddp"]
+[gd_scene load_steps=69 format=4 uid="uid://brgyrvhi34ddp"]
 
 [ext_resource type="Texture2D" uid="uid://dq3bb47vbsocb" path="res://assets/art/Tiles/RPG Terrains/Outdoor.png" id="1_fndph"]
 [ext_resource type="Texture2D" uid="uid://b3e3qylcaeirx" path="res://assets/art/Tiles/RPG Terrains/wood_tileset.png" id="2_v6bpe"]
@@ -15,6 +15,7 @@
 [ext_resource type="Texture2D" uid="uid://c7cj3kvcrtibh" path="res://assets/art/decoration/columpio.png" id="13_xiu5j"]
 [ext_resource type="Texture2D" uid="uid://18tf1qdt7g3c" path="res://assets/art/decoration/tobogan.png" id="14_n0iaw"]
 [ext_resource type="Texture2D" uid="uid://dbo2cl3jkg07w" path="res://assets/art/decoration/caseta.png" id="15_ptqtj"]
+[ext_resource type="PackedScene" uid="uid://du265vsuogtq0" path="res://scenes/characters/player.tscn" id="16_jbj1t"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_yashq"]
 texture = ExtResource("1_fndph")
@@ -1980,3 +1981,8 @@ texture = ExtResource("15_ptqtj")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Caseta/StaticBody2D"]
 position = Vector2(-118, -3.5)
 shape = SubResource("RectangleShape2D_2cjbq")
+
+[node name="Player" parent="." instance=ExtResource("16_jbj1t")]
+position = Vector2(145, 11)
+
+[node name="Camera2D" type="Camera2D" parent="Player"]

@@ -20,8 +20,8 @@ size = Vector2(1241.57, 73.5974)
 [node name="Node2D" type="Node2D"]
 
 [node name="ParqueCole" type="Sprite2D" parent="."]
-position = Vector2(583, 327.25)
-scale = Vector2(0.932692, 0.792668)
+position = Vector2(590, 357.75)
+scale = Vector2(0.94391, 0.865985)
 texture = ExtResource("1_jcwbs")
 
 [node name="StaticBody2D" type="StaticBody2D" parent="ParqueCole"]
@@ -37,11 +37,11 @@ position = Vector2(-109.448, 24.9158)
 shape = SubResource("RectangleShape2D_se1p7")
 
 [node name="CollisionShape2D2" type="CollisionShape2D" parent="ParqueCole/StaticBody2D2"]
-position = Vector2(75.0513, 47.4106)
+position = Vector2(75.219, 4.90763)
 shape = SubResource("RectangleShape2D_3p8oq")
 
 [node name="CollisionShape2D3" type="CollisionShape2D" parent="ParqueCole/StaticBody2D2"]
-position = Vector2(623.551, 4.62875)
+position = Vector2(612.346, -3.17564)
 shape = SubResource("RectangleShape2D_47f3n")
 
 [node name="CollisionShape2D4" type="CollisionShape2D" parent="ParqueCole/StaticBody2D2"]
