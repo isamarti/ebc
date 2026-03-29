@@ -1,0 +1,144 @@
+	[
+		{
+			"index": 0,
+			"question": "Els boscos són importants per al planeta?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	{
+			"index": 1,
+			"question": "Quin animal viu en bosc?",
+			"options": [
+				"A) Cérvol",
+				"B) Tauró",
+				"C)Dofí"
+			],
+			"correctOptionIndex": 0
+		}
+	{
+			"index": 2,
+			"question": "La desforestació és un problema ambiental?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	{
+			"index": 3,
+			"question": "Quina acció protegeix boscos?",
+			"options": [
+				"A) Cremar boscos",
+				"B) Reforestació",
+				"C) Tallar arbres sense control"
+			],
+			"correctOptionIndex": 1
+		}
+	{
+			"index": 4,
+			"question": "La biodiversitat és important per als ecosistemes?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	{
+			"index": 5,
+			"question": "Quin ecosistema és terrestre?",
+			"options": [
+				"A) Selva",
+				"B) C) Mar",
+				"C) Oceà"
+			],
+			"correctOptionIndex": 0
+		}
+	{
+			"index": 6,
+			"question": "Algunes espècies estan en perill d’extinció?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	{
+			"index": 7,
+			"question": "Quin animal terrestre és salvatge?",
+			"options": [
+				"A) Tigre",
+				"B) C) Dofí",
+				"C)Balena"
+			],
+			"correctOptionIndex": 0
+		}
+	{
+			"index": 8,
+			"question": "Protegir la fauna ajuda l’equilibri ecològic?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	{
+			"index": 9,
+			"question": "Quin problema afecta sòls?",
+			"options": [
+				"A)Aire pur",
+				"B) C)Desertificació",
+				"C)Aigua neta"
+			],
+			"correctOptionIndex": 1
+		}
+	{
+			"index": 10,
+			"question": "Les reserves naturals protegeixen espècies.?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	{
+			"index": 11,
+			"question": "Quin recurs prové del bosc?",
+			"options": [
+				"A)Petroli",
+				"B)Gas",
+				"C)Fusta"
+			],
+			"correctOptionIndex": 2
+		}
+	{
+			"index": 12,
+			"question": "Les plantes no produeixen oxigen?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 1
+		}
+	{
+			"index": 13,
+			"question": "Quin element és clau en ecosistemes?",
+			"options": [
+				"A)Biodiversitat",
+				"B)Contaminació",
+				"C)Destrucció"
+			],
+			"correctOptionIndex": 0
+		}
+	{
+			"index": 14,
+			"question": "L’ODS 15 protegeix ecosistemes terrestres?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	]

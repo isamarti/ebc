@@ -1,0 +1,153 @@
+	[
+		{
+			"index": 0,
+			"question": "Reduir la pobresa és un dels objectius principals dels ODS?",
+			"options": [
+				"A)Verdader",
+				"B)Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 1,
+			"question": "La pobresa extrema significa no tindre recursos suficients per a cobrir necessitats bàsiques?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 2,
+			"question": "Quina és la mesura per reduir la pobresa?",
+			"options": [
+				"A)Crear oportunitats de treball",
+				"B)Augmentar la desigualtat",
+				"C)Eliminar l'educaciö"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 3,
+			"question": "L'educació pot ajudar a eixir de la pobresa?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 4,
+			"question": "Quin organisme internacional promou els ODS?",
+			"options": [
+				"A)ONU",
+				"B)FIFA""C)OTAN"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 5,
+			"question": "La pobresa extrema significa no tindre recursos suficients per a cobrir necessitats bàsiques?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 6,
+			"question": "Les ajudes socials poden ajudar a reduir la pobresa?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 7,
+			"question": "Quina situació pot provocar pobresa?",
+			"options": [
+				"A)Falta de treball",
+				"B)Accés a educació",
+				"C)Bons serveis públics"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 8,
+			"question": "La pobresa només existeix en països pobres?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 1
+		},
+		{
+			"index": 9,
+			"question": "Quina acció pot reduir la desigualtat econòmica?",
+			"options": [
+				"A)Accés a educació",
+				"B)Reduir salaris",
+				"C)Eliminar els serveis socials"
+			],
+			"correctOptionIndex": 0
+		},
+		,
+		{
+			"index": 10,
+			"question": "Les polítiques públiques poden reduir la pobresa?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 11,
+			"question": "Quin és un indicador de pobresa?",
+			"options": [
+				"A)Falta d'habitatge",
+				"B)Accés a sanitat",
+				"C)Bons salaris"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 12,
+			"question": "La pobresa pot afcetar la salut?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 13,
+			"question": "Quina acció pot ajudar a reduir la pobresa global?",
+			"options": [
+				"A)Eliminar ajudes",
+				"B)Tancar fronteres econòmiques",
+				"C)Cooperació internacional"
+			],
+			"correctOptionIndex": 2
+		},
+		{
+			"index": 14,
+			"question": "L'accés a serveis bàsics ajuda a reduir la pobresa?",
+			"options": [
+				"A)Verdader",
+				"B)Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 15,
+			"question": "Quin servei és bàsic per reduir la pobresa?",
+			"options": [
+				"A)Loteria",
+				"B)Publicitat",
+				"C)Educació"
+			],
+			"correctOptionIndex": 2
+		}
+	]

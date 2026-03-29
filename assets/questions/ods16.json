@@ -1,0 +1,144 @@
+[
+	{
+		"index": 0,
+		"question": "Les societats pacífiques són més estables.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 1,
+		"question": "Quin valor promou la pau?",
+		"options": [
+			"A) Violència",
+			"B) Justícia",
+			"C) Corrupció"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 2,
+		"question": "La corrupció no debilita institucions.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 3,
+		"question": "Quin dret és fonamental?",
+		"options": [
+			"A) Dret a un judici just",
+			"B) Dret a violència",
+			"C) Dret a corrupció"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 4,
+		"question": "Les lleis ajuden a mantindre ordre social.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 5,
+		"question": "Quin organisme fa lleis?",
+		"options": [
+			"A) Parlament",
+			"B) Estadi",
+			"C) Museu"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 6,
+		"question": "La transparència no és important en govern.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 7,
+		"question": "Quin problema tracta l'ODS 16?",
+		"options": [
+			"A) Agricultura",
+			"B) Energia solar",
+			"C) Corrupció"
+		],
+		"correctOptionIndex": 2
+	},
+	{
+		"index": 8,
+		"question": "La seguretat ciutadana és important.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 9,
+		"question": "Quin valor ajuda convivència?",
+		"options": [
+			"A) Odi",
+			"B) Violència",
+			"C) Respecte"
+		],
+		"correctOptionIndex": 2
+	},
+	{
+		"index": 10,
+		"question": "Els drets humans són universals.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 11,
+		"question": "Quin sistema resol conflictes legals?",
+		"options": [
+			"A) Publicitat",
+			"B) Justícia",
+			"C) Música"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 12,
+		"question": "Institucions fortes milloren democràcia.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 13,
+		"question": "Quin valor ajuda governança?",
+		"options": [
+			"A) Transparència",
+			"B) Corrupció",
+			"C) Engany"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 14,
+		"question": "L’ODS 16 promou pau i justícia.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	}
+]

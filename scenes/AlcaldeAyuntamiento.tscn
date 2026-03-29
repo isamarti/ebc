@@ -1,10 +1,11 @@
-[gd_scene load_steps=8 format=3 uid="uid://dgguipxg3lq6k"]
+[gd_scene load_steps=12 format=3 uid="uid://dgguipxg3lq6k"]
 
+[ext_resource type="Script" uid="uid://bep16sp2oprdx" path="res://scenes/alcalde_ayuntamiento.gd" id="1_80bkw"]
 [ext_resource type="Texture2D" uid="uid://ce8imq2mmbdet" path="res://assets/art/interiors/AlcaldeAyunt..png" id="1_hqcrs"]
-
-[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_cw7v6"]
-radius = 54.9242
-height = 308.0
+[ext_resource type="Texture2D" uid="uid://culuufaqngtfm" path="res://assets/art/characters/major.png" id="2_otcfl"]
+[ext_resource type="Resource" uid="uid://clt81hhigne7c" path="res://dialogs/general.dialogue" id="2_x0s2h"]
+[ext_resource type="PackedScene" uid="uid://du265vsuogtq0" path="res://scenes/characters/player.tscn" id="3_5jvrq"]
+[ext_resource type="PackedScene" uid="uid://cq8ldqnbv0fwu" path="res://scenes/board.tscn" id="4_5jvrq"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_htfx5"]
 size = Vector2(1202.91, 32)
@@ -22,17 +23,13 @@ size = Vector2(919.472, 4.74792)
 size = Vector2(455.073, 4.03381)
 
 [node name="Node2D" type="Node2D"]
+script = ExtResource("1_80bkw")
+dialogue = ExtResource("2_x0s2h")
 
 [node name="AlcaldeAyunt_" type="Sprite2D" parent="."]
 position = Vector2(575.5, 313.5)
 scale = Vector2(0.983173, 0.991587)
 texture = ExtResource("1_hqcrs")
-
-[node name="StaticBody2D" type="StaticBody2D" parent="AlcaldeAyunt_"]
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="AlcaldeAyunt_/StaticBody2D"]
-position = Vector2(473.467, 84)
-shape = SubResource("CapsuleShape2D_cw7v6")
 
 [node name="StaticBody2D2" type="StaticBody2D" parent="AlcaldeAyunt_"]
 
@@ -54,6 +51,24 @@ position = Vector2(-64.5869, -29.0989)
 shape = SubResource("RectangleShape2D_kwpsb")
 
 [node name="CollisionShape2D5" type="CollisionShape2D" parent="AlcaldeAyunt_/StaticBody2D2"]
-position = Vector2(4.87421, 105.386)
+position = Vector2(-33.0562, 90.2594)
 scale = Vector2(0.999999, 0.999999)
 shape = SubResource("RectangleShape2D_oqsp4")
+
+[node name="Major" type="Sprite2D" parent="."]
+position = Vector2(296, 436)
+scale = Vector2(7, 7)
+texture = ExtResource("2_otcfl")
+
+[node name="Player" parent="." instance=ExtResource("3_5jvrq")]
+position = Vector2(871, 422)
+scale = Vector2(3.5, 3.5)
+
+[node name="Board" parent="." instance=ExtResource("4_5jvrq")]
+offset_left = 151.0
+offset_top = -114.0
+offset_right = 1301.0
+offset_bottom = -114.0
+questions_file = "res://assets/questions/ODS11.json"
+max_questions = 14
+num_questions = 5

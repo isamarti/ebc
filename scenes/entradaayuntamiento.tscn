@@ -1,5 +1,6 @@
-[gd_scene load_steps=9 format=3 uid="uid://dtjpouagpgmfc"]
+[gd_scene load_steps=10 format=3 uid="uid://dtjpouagpgmfc"]
 
+[ext_resource type="Script" uid="uid://di3l03nlu8f1i" path="res://scenes/entradaayuntamiento.gd" id="1_843fa"]
 [ext_resource type="Texture2D" uid="uid://dmgngpduceyft" path="res://assets/art/interiors/EntradaAyuntamiento.png" id="1_huktj"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_huktj"]
@@ -25,6 +26,7 @@ size = Vector2(91.1921, 323.7)
 size = Vector2(1243.36, 83.9945)
 
 [node name="Node2D" type="Node2D"]
+script = ExtResource("1_843fa")
 
 [node name="EntradaAyuntamiento" type="Sprite2D" parent="."]
 position = Vector2(585, 357)

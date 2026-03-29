@@ -1,0 +1,113 @@
+~ start
+Marc: Soc Marc i vinc de l'any 2050... i creieu-me, no voleu saber com acaba això si no actuem ARA.
+Marc: En el meu temps, la ciutat és un desert de ciment on sol mana la MegaCorp de Tramp. La solidaritat es va extingir i els diners és l'única cosa que es respira. Però he trobat una bretxa en la línia temporal: aquest matí.
+Marc: He portat amb mi la Matriu de l'Economia del Bé Comú. Si aconseguisc aplicar-la en els punts clau —el col·legi, les empreses, l'ajuntament— canviarem l'ADN d'aquesta societat abans que el 'Gran Fum' siga irreversible.
+Marc: No hi ha temps per a discursos. He de parlar amb els ciutadans, resoldre els seus dubtes sobre els ODS i recol·lectar l'energia ètica suficient per a derrocar els murs d'eixa torre daurada.
+Marc: Pressiona la tecla F per a veure els segells que hem aconseguit. Quan tinguem els 4 podrem arribar a MegaCorp.
+Marc: El futur no està escrit, es gestiona amb valors!
+=> END
+
+~ hospital
+Infermera: Sent, tu! El de la roba rara. Dius que vens a 'humanitzar' l'hospital, però ací manen els pressupostos de la Gran Empresa. De veritat creus que la dignitat val més que els diners?
+
+Marc: Vinc del futur i tinc clar que el benestar dels pacients i treballadors és la base de tot. Sense això, tot col·lapsa.
+
+Infermera: Paraules boniques... però necessite proves. Si de veritat saps com aplicar la Dignitat Humana en la salut, respon als meus dubtes. Si falles, torna a la teua època i deixa'ns amb les nostres retallades.
+do start_questionnaire()
+=> END
+
+~ hospi_win
+Infermera: Ho has aconseguit! Les teues respostes han reactivat els desfibril·ladors de la nostra ètica professional. Per fi entenc que cuidar al pacient està per damunt de qualsevol balanç de beneficis. Ací tens el Segell de Dignitat del Pacient! La salut torna a ser un dret, no una mercaderia.
+do out()
+=> END
+
+~ hospi_lose
+Infermera: Ho sent, però amb eixos dubtes no podem canviar el sistema. Si no tens clar com prioritzar la vida sobre el capital, la MegaCorp continuarà gestionant aquest hospital com si fora una fàbrica de caragols. Estudia més l'ODS 3 i torna.
+do out()
+=> END
+
+~ colegio
+Professor: Chist! No parles tan alt de 'cooperació'. Ací la MegaCorp només premia la competitivitat extrema. Qui et creus que eres per a interrompre la meua classe amb idees de justícia?
+
+Marc: Algú que sap que si no ensenyem Justícia Social hui, demà no hi haurà societat que salvar.
+
+Professor: Això sona molt perillós... i molt interessant. Si eres capaç de respondre a aquestes preguntes sobre equitat i ODS sense dubtar, m'arriscaré a canviar els llibres de text. T'atreveixes?
+do start_questionnaire()
+=> END
+
+~ cole_win
+Professor: Extraordinari! Has demostrat que la verdadera educació no és fabricar peces per a una maquinària de consum, sinó cultivar el Bé Comú. M'has recordat per què vaig triar aquesta professió. Presa el Segell de Justícia Social! Des de hui, en aquesta escola aprendrem a cooperar, no a competir.
+do out()
+=> END
+
+~ cole_lose
+Professor: Les teues idees són confuses, viatger. Si ni tan sols tu tens clar com educar en valors, com pretens que canvie el meu programa? La MegaCorp almenys té un pla estructurat, encara que siga gris. Torna quan les teues lliçons siguen de qualitat.
+do out()
+=> END
+
+~ ayuntamiento
+Alcalde: Quins feixos en el meu despatx? Estem a la meitat d'una... negociació privada amb la Gran Empresa. Seguretat!
+
+Marc: Les negociacions no haurien de ser privades si afecten a tots. Vinc a instaurar la Transparència.
+
+Alcalde: (Rient) Transparència? Això és utopia. Ningú entén com funciona la gestió pública de veritat. Si creus que eres tan llest com per a auditar els meus comptes i gestionar la participació ciutadana, demostra-ho ara mateix.
+do start_questionnaire()
+=> END
+
+~ ayu_win
+Alcalde: Admet que els teus mètodes són millors per al poble. He aprés molt. Presa el Segell de Transparència... i rebutjaré eixe maletí
+do out()
+=> END
+
+~ ayu_lose
+Alcalde: Si no pots auditar els meus comptes, no hi ha tracte. La MegaCorp continua finançant les meues... projectes.
+do out()
+=> END
+
+~ super
+Amo del Súper: Més ràpid, inútil! Si no reposes 100 caixes per hora, la MegaCorp ens penalitza i et vas al carrer sense quitança! Ací el temps són diners!
+
+Marc: (Intervenint) Basta! Una empresa no pot créixer calcigant la Dignitat dels seus treballadors. L'ODS 8 exigeix treball decent, no esclavitud moderna.
+
+Amo del Súper: Treball decent? I qui paga les factures? Si no seguim les normes d'eficiència de la Gran Empresa, infringim. Els empleats són costos que cal minimitzar.
+
+Marc: Els empleats són éssers humans, l'actiu més valuós. Una economia del Bé Comú prospera quan cuida a la seua gent. Si em demostres que entens com aplicar la dignitat i els drets laborals en el teu negoci, et donaré el Segell de Dignitat Laboral.
+
+Amo del Súper: (Dubtant, mirant a l'empleat espantat) No sé... sona arriscat. Però si el teu futur sistema assegura que el negoci sobreviu sense haver de ser un tirà... accepte el repte. Demostra'm què saps sobre l'ODS 8.
+do start_questionnaire()
+=> END
+
+~ super_win
+Amo del Súper: Increïble... Les teues respostes m'han fet veure que un treballador feliç i segur és més productiu. Presa el Segell de Dignitat Laboral! Demà mateix revisaré els contractes i els torns.
+do out()
+=> END
+
+~ super_lose
+Amo del Súper: Molt parles de 'dignitat', però no tens ni idea de com gestionar un negoci real. Torna a les teues utopies del futur i deixa'm optimitzar els meus 'costos humans'."
+do out()
+=> END
+
+~ tramp
+Tramp: Vaja, vaja! El 'viatger del futur' i els seus paperets de colors. Creus que eixos 4 segells valen alguna cosa ací? He comprat ciutats senceres amb un sol tuit! El meu èxit és ENORME, el més gran de la història.
+
+Jugador: El teu èxit és un miratge, Trump. Has unflat els beneficis buidant les butxaques i l'ànima de la gent. Vinc a aplicar la Matriu del Bé Comú a la teua empresa. Si no passes l'auditoria, el teu imperi es dissol.
+
+Tramp: Auditoria? Ningú audita al Rei del Tracte! Els meus advocats diuen que soc perfecte. Però avance, llança'm les teues preguntes de 'buenista'. Si falles una sola vegada... estàs acomiadat! Fora del meu segle!
+
+Jugador: No em fas por. La veritat és més forta que el teu màrqueting. Comencem!
+do start_questionnaire()
+=> END
+
+~ tramp_win
+Tramp: No! Els meus marges de benefici! Estan... desapareixent! Com és possible que la cooperació siga més eficient que la meua cobdícia? És una estafa, un desastre total!
+
+Jugador : No és una estafa, és evolució. Has perdut, Trump. La teua torre ara és un Centre d'Innovació Social. La ciutat és lliure i el futur... el futur per fi és brillant.
+do win()
+=> END
+
+~ tramp_lose
+Tramp: Ho sabia! Molta ètica però poc cap. Les teues idees no aguanten un assalt en el món real. ERES UN PERDEDOR! Seguretat, porteu-ho a la zona de precarietat laboral... o millor, retorneu-ho al seu futur arruïnat!
+
+Jugador: No... m'he quedat a prop... La ciutat encara et pertany, però tornaré. Els valors no es rendeixen.
+do lose()
+=> END

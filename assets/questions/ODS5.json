@@ -1,0 +1,125 @@
+	[
+		{
+			"index": 0,
+			"question": "L'ODS 5 promou la igualtat de entre dones i homes?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 1,
+			"question": "Quina situació mostra igualtat?",
+			"options": [
+				"A)Mateix salari per mateix treball",
+				"B)Salaris diferents",
+				"C)Discriminació laboral"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 2,
+			"question": "La discriminació de gènere encara existeis en alguns llocs?",
+			"options": [
+				"A)Verdader",
+				"B)Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 3,
+			"question": "Quina acció promou la iugaltat?",
+			"options": [
+				"A)Mateixes oportunitats educatives",
+				"B)Excloure dones",
+				"C)Limitar drets"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 4,
+			"question": "L'educació ajuda a reduir desigualtats de gènere?",
+			"options": [
+				"A)Verdader",
+				"B)Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 5,
+			"question": "Quin dret és bàsic?",
+			"options": [
+				"A)Dret a excloure",
+				"B)Dret a discriminar",
+				"C)Dret a l'educació"
+			],
+			"correctOptionIndex": 2
+		},
+		{
+			"index": 6,
+			"question": "Les dones han de tindre les mateixes oportunitats laborals?",
+			"options": [
+				"A)Verdader",
+				"B)Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 7,
+			"question": "Que promou l'ODS 5?",
+			"options": [
+				"A)Exclusió",
+				"B)Igualtat",
+				"C)Desigualtat"
+			],
+			"correctOptionIndex": 1
+		},
+		{
+			"index": 8,
+			"question": "L'empoderament de les dones és important per al desenvolupament?",
+			"options": [
+				"A)Verdader",
+				"B)Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 9,
+			"question": "Quin problema tracta l'ODS 5?",
+			"options": [
+				"A)Violència de gènere",
+				"B)Reciclatge",
+				"C)Energia solar"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 10,
+			"question": "L'ODS busca eliminar la violènciaentre dones?",
+			"options": [
+				"A)Verdader",
+				"B)Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 11,
+			"question": "Quin valor promou l'ODS 5?",
+			"options": [
+				"A)Respecte",
+				"B)Desigualtat",
+				"C)Intolerància"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 12,
+			"question": "La igualtat de gènere beneficia a tota la societat?",
+			"options": [
+				"A)Verdader",
+				"B)Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	]

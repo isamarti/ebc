@@ -1,0 +1,144 @@
+[
+	{
+		"index": 0,
+		"question": "Les ciutats sostenibles busquen reduir contaminació?",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 1,
+		"question": "Quin transport és sostenible?",
+		"options": [
+			"A)Bicicleta",
+			"B) Camió antic",
+			"C)Cotxe contaminant"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 2,
+		"question": "Els espais verds milloren la qualitat de vida urbana?",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 3,
+		"question": "Quin és un espai verd?",
+		"options": [
+			"A)Parc",
+			"B) Fàbrica",
+			"C)Centre comercial"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 4,
+		"question": "El transport públic ajuda a reduir emissions?",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 5,
+		"question": "Quin mitjà és transport públi?",
+		"options": [
+			"A)Moto",
+			"B)  Bicicleta privada",
+			"C) Metro"
+		],
+		"correctOptionIndex": 2
+	},
+	{
+		"index": 6,
+		"question": "L’habitatge digne no és part de ciutats sostenibles?",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 7,
+		"question": "Quin problema afecta ciutats?",
+		"options": [
+			"A)Contaminació",
+			"B)Aire net",
+			"C)Parcs"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 8,
+		"question": "Les ciutats concentren gran part de la població mundial?",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 9,
+		"question": "Quina acció millora una ciutat?",
+		"options": [
+			"A) Zones verdes",
+			"B) Més contaminació",
+			"C)Soroll constant"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 10,
+		"question": "La planificació urbana és important?",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 11,
+		"question": "Quin element millora mobilitat urbana?",
+		"options": [
+			"A) Menys transport",
+			"B) Més trànsit",
+			"C)Carril bici"
+		],
+		"correctOptionIndex": 2
+	},
+	{
+		"index": 12,
+		"question": "Les ciutats sostenibles no busquen eficiència energètica?",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 13,
+		"question": "Quina energia pot usar una ciutat sostenible?",
+		"options": [
+			"A)Petroli",
+			"B) Solar",
+			"C)Carbó"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 14,
+		"question": "L’ODS 11 promou comunitats segures i sostenibles?",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	}
+]

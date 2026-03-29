@@ -1,0 +1,143 @@
+	[
+		{
+			"index": 0,
+			"question": "La cooperació internacional és important per als ODS?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 1,
+			"question": "Qui pot treballar pels ODS?",
+			"options": [
+				"A)Només governs",
+				"B)Governs, empreses i ciutadans",
+				"C)Només empreses"
+			],
+			"correctOptionIndex": 1
+		},
+		{
+			"index": 2,
+			"question": "Les aliances ajuden a compartir recursos?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 3,
+			"question": "Quin organisme va crear els ODS?",
+			"options": [
+				"A)FIFA",
+				"B)ONU",
+				"C)FIFA"
+			],
+			"correctOptionIndex": 1
+		},
+		{
+			"index": 4,
+			"question": "Els països poden col·laborar per resoldre problemes globals?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 5,
+			"question": "Quin tipus d’aliança ajuda als ODS?",
+			"options": [
+				"A)Competència destructiva",
+				"B)Conflictes",
+				"C)Cooperació internacional"
+			],
+			"correctOptionIndex": 2
+		},
+		{
+			"index": 6,
+			"question": "Les empreses també poden contribuir als ODS?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 7,
+			"question": "Quin recurs es pot compartir entre països?",
+			"options": [
+				"A)Tecnologia",
+				"B)Contaminació",
+				"C)Guerra"
+			],
+			"correctOptionIndex": 2
+		},
+		{
+			"index": 8,
+			"question": "Les ONG participen en projectes de desenvolupament?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	{
+			"index": 9,
+			"question": "Quin sector ajuda al desenvolupament sostenible?",
+			"options": [
+				"A)Sector destructiu",
+				"B) Sector criminal",
+				"C) Sector públic"
+			],
+			"correctOptionIndex": 2
+		},
+		{
+			"index": 10,
+			"question": "L’educació sobre ODS ajuda a aconseguir-los?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 11,
+			"question": "Quin tipus de col·laboració és clau?",
+			"options": [
+				"A)Global",
+				"B) Aïllada",
+				"C)Individual"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 12,
+			"question": "Compartir coneixement ajuda al desenvolupament?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 13,
+			"question": "Quin recurs és important per cooperació?",
+			"options": [
+				"A)Finançament",
+				"B)Conflicte""C)Destrucció"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 14,
+			"question": "L’ODS 17 reforça la cooperació mundial?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	]

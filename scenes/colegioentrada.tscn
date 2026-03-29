@@ -1,6 +1,11 @@
-[gd_scene load_steps=10 format=3 uid="uid://q2g8v2113qnu"]
+[gd_scene load_steps=15 format=3 uid="uid://q2g8v2113qnu"]
 
+[ext_resource type="Script" uid="uid://c2w4vc2l6vlhc" path="res://scenes/colegioentrada.gd" id="1_r4ts2"]
 [ext_resource type="Texture2D" uid="uid://dkl7kq2kpdnfj" path="res://assets/art/interiors/EntradaCole.png" id="1_utm0f"]
+[ext_resource type="Resource" uid="uid://clt81hhigne7c" path="res://dialogs/general.dialogue" id="2_1bhol"]
+[ext_resource type="Texture2D" uid="uid://dfk63u4dytss8" path="res://assets/art/characters/chimo.png" id="2_gfthy"]
+[ext_resource type="PackedScene" uid="uid://du265vsuogtq0" path="res://scenes/characters/player.tscn" id="3_r4ts2"]
+[ext_resource type="PackedScene" uid="uid://cq8ldqnbv0fwu" path="res://scenes/board.tscn" id="5_s5i57"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ctcgo"]
 size = Vector2(170.329, 346.667)
@@ -29,11 +34,13 @@ size = Vector2(163.879, 370.007)
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_afypy"]
 size = Vector2(1237.32, 87.8148)
 
-[node name="Node2D" type="Node2D"]
+[node name="Cole" type="Node2D"]
+script = ExtResource("1_r4ts2")
+dialogue = ExtResource("2_1bhol")
 
 [node name="EntradaCole" type="Sprite2D" parent="."]
-position = Vector2(588, 363)
-scale = Vector2(0.945513, 0.862981)
+position = Vector2(571, 289)
+scale = Vector2(0.975962, 0.862981)
 texture = ExtResource("1_utm0f")
 
 [node name="StaticBody2D" type="StaticBody2D" parent="EntradaCole"]
@@ -50,7 +57,7 @@ position = Vector2(532.076, 178.469)
 shape = SubResource("RectangleShape2D_7m44e")
 
 [node name="CollisionShape2D2" type="CollisionShape2D" parent="EntradaCole/StaticBody2D2"]
-position = Vector2(366.614, 96.2963)
+position = Vector2(368.179, 93.8679)
 shape = SubResource("CapsuleShape2D_xyptq")
 
 [node name="CollisionShape2D3" type="CollisionShape2D" parent="EntradaCole/StaticBody2D2"]
@@ -72,3 +79,21 @@ shape = SubResource("RectangleShape2D_0cd2n")
 [node name="CollisionShape2D7" type="CollisionShape2D" parent="EntradaCole/StaticBody2D2"]
 position = Vector2(94.2538, 275.795)
 shape = SubResource("RectangleShape2D_afypy")
+
+[node name="Chimo" type="Sprite2D" parent="."]
+position = Vector2(344, 438)
+scale = Vector2(6, 6)
+texture = ExtResource("2_gfthy")
+
+[node name="Player" parent="." instance=ExtResource("3_r4ts2")]
+position = Vector2(911, 384)
+scale = Vector2(2.6, 2.6)
+
+[node name="Board" parent="." instance=ExtResource("5_s5i57")]
+offset_left = 145.0
+offset_top = -95.0
+offset_right = 145.0
+offset_bottom = -95.0
+questions_file = "res://assets/questions/ods4.json"
+max_questions = 14
+num_questions = 5

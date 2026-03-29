@@ -1,0 +1,46 @@
+[gd_scene load_steps=7 format=3 uid="uid://wcyujffy76qg"]
+
+[ext_resource type="Script" uid="uid://xqnmj7qm3lu7" path="res://scenes/hospital.gd" id="1_cxbdb"]
+[ext_resource type="Texture2D" uid="uid://be4bqae8vhv3j" path="res://assets/art/interiors/hospitaldentro.png" id="1_la7h8"]
+[ext_resource type="Resource" uid="uid://clt81hhigne7c" path="res://dialogs/general.dialogue" id="2_ptr5v"]
+[ext_resource type="PackedScene" uid="uid://du265vsuogtq0" path="res://scenes/characters/player.tscn" id="2_ysjay"]
+[ext_resource type="PackedScene" uid="uid://cq8ldqnbv0fwu" path="res://scenes/board.tscn" id="4_uvncx"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_cxbdb"]
+size = Vector2(655, 109)
+
+[node name="Hospital" type="Node2D"]
+script = ExtResource("1_cxbdb")
+dialogue = ExtResource("2_ptr5v")
+
+[node name="Hospitaldentro" type="Sprite2D" parent="."]
+position = Vector2(575, 355.6)
+scale = Vector2(0.475475, 0.418527)
+texture = ExtResource("1_la7h8")
+
+[node name="Player" parent="." instance=ExtResource("2_ysjay")]
+position = Vector2(783, 412)
+scale = Vector2(2, 2)
+
+[node name="Board" parent="." instance=ExtResource("4_uvncx")]
+offset_left = 39.0
+offset_top = -35.0
+offset_right = 39.0
+offset_bottom = -35.0
+questions_file = "res://assets/questions/ODs3.json"
+max_questions = 14
+num_questions = 5
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(548, 320)
+shape = SubResource("RectangleShape2D_cxbdb")
+
+[node name="CollisionShape2D2" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(530, 610)
+shape = SubResource("RectangleShape2D_cxbdb")
+
+[node name="CollisionShape2D3" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(334, 491)
+shape = SubResource("RectangleShape2D_cxbdb")

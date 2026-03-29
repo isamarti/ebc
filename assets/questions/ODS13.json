@@ -1,0 +1,144 @@
+	[
+		{
+			"index": 0,
+			"question": "El canvi climàtic afecta el planeta?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 1,
+			"question": "Quin gas contribueix al canvi climàtic?",
+			"options": [
+				"A) Nitrogen",
+				"B) CO₂",
+				"C)Oxigen"
+			],
+			"correctOptionIndex": 1
+		},
+		{
+			"index": 2,
+			"question": "Les energies renovables ajuden a reduir emissions?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 3,
+			"question": "Quin fenomen està relacionat amb canvi climàtic?",
+			"options": [
+				"A) Augment temperatura global",
+				"B) Refredament  permanent",
+				"C)Absència de clima"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 4,
+			"question": "Les emissions de combustibles fòssils afecten el clima?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 5,
+			"question": "Quin transport contamina menys?",
+			"options": [
+				"A)Bicicleta",
+				"B) Cotxe antic",
+				"C)Avió privat"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 6,
+			"question": " Plantar arbres ajuda contra el canvi climàtic?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 7,
+			"question": "Quin sector emet molt CO₂?",
+			"options": [
+				"A) Transport",
+				"B)  Biblioteca",
+				"C) Biblioteca"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 8,
+			"question": "El canvi climàtic pot no provocar sequeres?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 1
+		},
+		{
+			"index": 9,
+			"question": "Quina energia és més neta?",
+			"options": [
+				"A)Solar",
+				"B)Carbó",
+				"C) Petroli"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 10,
+			"question": "Reduir emissions és clau per al clima?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 11,
+			"question": "Quin acord internacional tracta el clima?",
+			"options": [
+				"A)Acord musical",
+				"B)Acord de París",
+				"C) Acord esportiu"
+			],
+			"correctOptionIndex": 1
+		},
+		{
+			"index": 12,
+			"question": "El canvi climàtic afecta ecosistemes.?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 13,
+			"question": "Quina acció redueix emissions?",
+			"options": [
+				"A)Tallar boscos",
+				"B)Cremar carbó",
+				"C) Energia renovable"
+			],
+			"correctOptionIndex": 2
+		},
+		{
+			"index": 14,
+			"question": "EL’ODS 13 tracta l’acció climàtica global?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	]

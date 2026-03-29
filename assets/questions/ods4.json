@@ -1,0 +1,144 @@
+[
+	{
+		"index": 0,
+		"question": "L’ODS 4 promou educació inclusiva i de qualitat.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 1,
+		"question": "Què ajuda a millorar l’educació?",
+		"options": [
+			"A) Menys llibres",
+			"B) Falta d’escoles",
+			"C) Bons professors"
+		],
+		"correctOptionIndex": 2
+	},
+	{
+		"index": 2,
+		"question": "L’educació és clau per al desenvolupament sostenible.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 3,
+		"question": "Quin lloc està dedicat a l’educació?",
+		"options": [
+			"A) Escola",
+			"B) Estadi",
+			"C) Discoteca"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 4,
+		"question": "L’educació hauria de ser accessible per a tots.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 5,
+		"question": "Quina eina ajuda a aprendre?",
+		"options": [
+			"A) Llibres",
+			"B) Contaminació",
+			"C) Soroll constant"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 6,
+		"question": "L’educació pot reduir la pobresa.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 7,
+		"question": "Quina competència és important en educació?",
+		"options": [
+			"A) Desinformació",
+			"B) Pensament crític",
+			"C) Ignorància"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 8,
+		"question": "L’educació digital és cada vegada més important.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 9,
+		"question": "Quin recurs educatiu és digital?",
+		"options": [
+			"A) Plataforma online",
+			"B) Pedra",
+			"C) Fum"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 10,
+		"question": "Aprendre al llarg de la vida és important.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 11,
+		"question": "Què ajuda a estudiar millor?",
+		"options": [
+			"A) Soroll",
+			"B) Distracció constant",
+			"C) Concentració"
+		],
+		"correctOptionIndex": 2
+	},
+	{
+		"index": 12,
+		"question": "L’educació no fomenta la igualtat d’oportunitats.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 13,
+		"question": "Quin objectiu té l’educació?",
+		"options": [
+			"A) Desenvolupar coneixement",
+			"B) Reduir coneixement",
+			"C) Eliminar escoles"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 14,
+		"question": "L’educació ajuda a formar ciutadans responsables.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	}
+]

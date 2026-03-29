@@ -1,6 +1,11 @@
-[gd_scene load_steps=14 format=3 uid="uid://dkkbe7ocxfoyp"]
+[gd_scene load_steps=19 format=3 uid="uid://dkkbe7ocxfoyp"]
 
+[ext_resource type="Script" uid="uid://b3064lh467sru" path="res://scenes/entrada_supermercado.gd" id="1_3dwsg"]
 [ext_resource type="Texture2D" uid="uid://w77i6xql0k64" path="res://assets/art/interiors/SupermercadoentradaCaja.png" id="1_dc2b0"]
+[ext_resource type="Resource" uid="uid://clt81hhigne7c" path="res://dialogs/general.dialogue" id="2_05syr"]
+[ext_resource type="Texture2D" uid="uid://jkgadbrmbg0p" path="res://assets/art/characters/wally.png" id="2_7uc6a"]
+[ext_resource type="PackedScene" uid="uid://du265vsuogtq0" path="res://scenes/characters/player.tscn" id="3_3dwsg"]
+[ext_resource type="PackedScene" uid="uid://cq8ldqnbv0fwu" path="res://scenes/board.tscn" id="6_driu3"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_7x4ki"]
 size = Vector2(81.7462, 171.642)
@@ -39,6 +44,8 @@ size = Vector2(20, 79.8415)
 size = Vector2(16.7642, 412.004)
 
 [node name="EntradaSupermercado" type="Node2D"]
+script = ExtResource("1_3dwsg")
+dialogue = ExtResource("2_05syr")
 
 [node name="SupermercadoentradaCaja" type="Sprite2D" parent="."]
 position = Vector2(499, 454.5)
@@ -100,3 +107,18 @@ shape = SubResource("RectangleShape2D_ccw44")
 [node name="CollisionShape2D10" type="CollisionShape2D" parent="SupermercadoentradaCaja/StaticBody2D3"]
 position = Vector2(411.033, -32.8421)
 shape = SubResource("RectangleShape2D_h73da")
+
+[node name="Wally" type="Sprite2D" parent="."]
+position = Vector2(235, 440)
+scale = Vector2(5, 5)
+texture = ExtResource("2_7uc6a")
+hframes = 2
+
+[node name="Player" parent="." instance=ExtResource("3_3dwsg")]
+position = Vector2(825, 412)
+scale = Vector2(3, 3)
+
+[node name="Board" parent="." instance=ExtResource("6_driu3")]
+questions_file = "res://assets/questions/ods8.json"
+max_questions = 14
+num_questions = 5

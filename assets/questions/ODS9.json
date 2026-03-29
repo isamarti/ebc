@@ -1,0 +1,144 @@
+	[
+		{
+			"index": 0,
+			"question": "Les infraestructures inclouen carreteres i ponts?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 1,
+			"question": "Quin és un exemple d’infraestructura?",
+			"options": [
+				"A)Autopista",
+				"B)Llibre",
+				"C)Jardí"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 2,
+			"question": "La innovació tecnològica pot millorar la producció?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 3,
+			"question": "Quin sector impulsa la indústria?",
+			"options": [
+				"A) Fabricació",
+				"B) Música",
+				"C)Turisme espacial"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 4,
+			"question": "Les infraestructures modernes no faciliten el transport?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 1
+		},
+		{
+			"index": 5,
+			"question": "Quina tecnologia millora la comunicació?",
+			"options": [
+				"A)  Internet",
+				"B) Pedra",
+				"C)Fum"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 6,
+			"question": "La innovació ajuda a resoldre problemes globals?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 7,
+			"question": "Quina activitat és innovadora?",
+			"options": [
+				"A)Crear noves tecnologies",
+				"B)No canviar res",
+				"C)Destruir invents"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 8,
+			"question": "Les infraestructures sostenibles redueixen impacte ambiental?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 9,
+			"question": "Quin exemple és una innovació energètica?",
+			"options": [
+				"A) Panells solars",
+				"B)Carbó",
+				"C)Petroli"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 10,
+			"question": "Les empreses innovadores poden generar ocupació?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 11,
+			"question": "Què ajuda al desenvolupament industrial?",
+			"options": [
+				"A) Investigació",
+				"B)Ignorància",
+				"C) Destrucció"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 12,
+			"question": "Les infraestructures no connecten ciutats i regions?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 1
+		},
+		{
+			"index": 13,
+			"question": "Quina infraestructura facilita comerç?",
+			"options": [
+				"A)Port",
+				"B)Bosc",
+				"C) Desert"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 14,
+			"question": "L’ODS 9 promou desenvolupament tecnològic sostenible?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	]

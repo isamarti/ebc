@@ -1,0 +1,55 @@
+[gd_scene load_steps=6 format=3 uid="uid://i5me3bq5msoi"]
+
+[ext_resource type="Script" uid="uid://cmy4d7siyo6l6" path="res://scripts/boardtrump.gd" id="1_2ohwk"]
+[ext_resource type="Texture2D" uid="uid://km5motygj0ns" path="res://assets/art/utils/screen.png" id="2_ykv1r"]
+[ext_resource type="FontFile" uid="uid://cs8t87vi6udjh" path="res://assets/VCR_OSD_MONO_1.001.ttf" id="3_q8m8e"]
+
+[sub_resource type="Theme" id="Theme_nglv8"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_nglv8"]
+
+[node name="BoardTrump" type="Control"]
+layout_direction = 1
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_2ohwk")
+
+[node name="Background" type="Sprite2D" parent="."]
+position = Vector2(509.406, 332)
+scale = Vector2(0.49624, 0.415051)
+texture = ExtResource("2_ykv1r")
+
+[node name="Question" type="Label" parent="."]
+custom_minimum_size = Vector2(30, 0)
+layout_mode = 0
+offset_left = 383.0
+offset_top = 145.0
+offset_right = 644.0
+offset_bottom = 222.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("3_q8m8e")
+theme_override_font_sizes/font_size = 20
+text = "Lorem ipsum...."
+autowrap_mode = 2
+
+[node name="ItemList" type="ItemList" parent="."]
+layout_mode = 0
+offset_left = 417.0
+offset_top = 286.0
+offset_right = 650.0
+offset_bottom = 425.0
+theme = SubResource("Theme_nglv8")
+theme_override_colors/guide_color = Color(0, 0, 0.956863, 1)
+theme_override_colors/font_outline_color = Color(0.16187, 0.186774, 0.753299, 1)
+theme_override_colors/font_selected_color = Color(0, 0, 0, 1)
+theme_override_colors/font_color = Color(0.027451, 0.341176, 0.521569, 1)
+theme_override_constants/v_separation = 30
+theme_override_fonts/font = ExtResource("3_q8m8e")
+theme_override_font_sizes/font_size = 15
+theme_override_styles/panel = SubResource("StyleBoxEmpty_nglv8")
+item_count = 3
+item_0/text = "Option 1"
+item_1/text = "Option 2"
+item_2/text = "Option 3"
+
+[connection signal="item_selected" from="ItemList" to="." method="_on_item_list_item_selected"]

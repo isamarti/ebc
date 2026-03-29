@@ -6,8 +6,17 @@ extends CharacterBody2D
 var direction: Vector2
 
 func _ready() -> void:
+	add_to_group("player")
 	animation_tree.active=true
+	$Sellos.visible=false
 	
+
+func _unhandled_input(event: InputEvent) -> void:
+	if Input.is_action_just_pressed("sellos"):
+		if($Sellos.visible):
+			$Sellos.visible=false
+		else:
+			$Sellos.visible=true
 
 @warning_ignore("unused_parameter")
 func _process(delta: float) -> void:
@@ -38,3 +47,4 @@ func update_animation_parameters():
 		print(direction)
 		animation_tree["parameters/idle/blend_position"] = direction
 		animation_tree["parameters/walk/blend_position"] = direction
+		

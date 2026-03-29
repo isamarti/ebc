@@ -1,0 +1,144 @@
+[
+	{
+		"index": 0,
+		"question": "L’ODS 10 busca aumentar desigualtats socials.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 1,
+		"question": "Quina acció redueix desigualtats?",
+		"options": [
+			"A) Exclusió",
+			"B) Igualtat d’oportunitats",
+			"C) Discriminació"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 2,
+		"question": "Les desigualtats poden ser econòmiques.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 3,
+		"question": "Quin dret ajuda a reduir desigualtats?",
+		"options": [
+			"A) Educació",
+			"B) Discriminació",
+			"C) Exclusió"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 4,
+		"question": "Les desigualtats existeixen entre països.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 5,
+		"question": "Quina política pot reduir desigualtats?",
+		"options": [
+			"A) Protecció social",
+			"B) Eliminació drets",
+			"C) Discriminació"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 6,
+		"question": "La inclusió social és important per a reduir desigualtats.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 7,
+		"question": "Quin valor ajuda a reduir desigualtats?",
+		"options": [
+			"A) Racisme",
+			"B) Intolerància",
+			"C) Respecte"
+		],
+		"correctOptionIndex": 2
+	},
+	{
+		"index": 8,
+		"question": "Les desigualtats no poden afectar oportunitats laborals.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 9,
+		"question": "Quin grup pot patir desigualtats?",
+		"options": [
+			"A) Minories",
+			"B) Només rics",
+			"C) Només governs"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 10,
+		"question": "L’accés a serveis bàsics redueix desigualtats.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 11,
+		"question": "Quin servei és bàsic?",
+		"options": [
+			"A) Casino",
+			"B) Sanitat",
+			"C) Publicitat"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 12,
+		"question": "Les desigualtats poden ser de gènere o ingressos.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 13,
+		"question": "Quina acció promou inclusió?",
+		"options": [
+			"A) Integració social",
+			"B) Exclusió",
+			"C) Segregació"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 14,
+		"question": "Reduir desigualtats no millora la cohesió social.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	}
+]

@@ -26,7 +26,7 @@ size = Vector2(9.992, 187.193)
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_2jdtt"]
 size = Vector2(19.3179, 291.123)
 
-[node name="Node2D" type="Node2D"]
+[node name="Super" type="Node2D"]
 
 [node name="Supermercado" type="Sprite2D" parent="."]
 position = Vector2(579, 476)

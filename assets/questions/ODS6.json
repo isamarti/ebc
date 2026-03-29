@@ -1,0 +1,144 @@
+[
+	{
+		"index": 0,
+		"question": "L’accés a aigua potable és un dret bàsic.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 1,
+		"question": "Quina és una font d’aigua potable?",
+		"options": [
+			"A) Riu contaminat",
+			"B) Aigua tractada",
+			"C) Aigua amb petroli"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 2,
+		"question": "La contaminació de rius no afecta la salut humana.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 3,
+		"question": "Quina acció ajuda a estalviar aigua?",
+		"options": [
+			"A) Tancar l’aixeta mentre et raspalles les dents",
+			"B) Deixar l’aixeta oberta",
+			"C) Gastar més aigua"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 4,
+		"question": "Moltes persones al món encara no tenen accés a aigua potable.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 5,
+		"question": "Quin sistema ajuda a netejar l’aigua?",
+		"options": [
+			"A) Depuradora",
+			"B) Fàbrica de fum",
+			"C) Incineradora"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 6,
+		"question": "L’aigua és essencial per a l’agricultura.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 7,
+		"question": "Quina acció contamina l’aigua?",
+		"options": [
+			"A) Abocar productes químics",
+			"B) Tractar aigües residuals",
+			"C) Filtrar aigua"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 8,
+		"question": "El sanejament adequat prevé malalties.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 9,
+		"question": "Quin element és important per al sanejament?",
+		"options": [
+			"A) Sorra",
+			"B) Fum",
+			"C) Clavegueram"
+		],
+		"correctOptionIndex": 2
+	},
+	{
+		"index": 10,
+		"question": "L’aigua dolça és limitada al planeta.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 11,
+		"question": "Quina activitat consumeix molta aigua?",
+		"options": [
+			"A) Escriure",
+			"B) Agricultura",
+			"C) Llegir"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 12,
+		"question": "Protegir rius i llacs no ajuda a garantir aigua neta.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 13,
+		"question": "Quin problema afecta l’aigua?",
+		"options": [
+			"A) Sequera",
+			"B) Música",
+			"C) Cinema"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 14,
+		"question": "L’ODS 6 busca millorar l’accés a sanejament.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	}
+]

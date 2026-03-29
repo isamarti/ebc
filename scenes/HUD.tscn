@@ -1,0 +1,53 @@
+[gd_scene load_steps=6 format=3 uid="uid://b21c3sy41bf60"]
+
+[ext_resource type="Script" uid="uid://ca6g1wkk4xvlq" path="res://scripts/hud.gd" id="1_1etfg"]
+[ext_resource type="Texture2D" uid="uid://c0qd53ajsw4bc" path="res://assets/art/utils/citiy_win.png" id="1_qpvh6"]
+[ext_resource type="FontFile" uid="uid://cs8t87vi6udjh" path="res://assets/VCR_OSD_MONO_1.001.ttf" id="2_fls4u"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_1etfg"]
+bg_color = Color(0.113725, 0.694118, 0.6, 0.784314)
+
+[sub_resource type="LabelSettings" id="LabelSettings_7hsmw"]
+font = ExtResource("2_fls4u")
+font_size = 50
+
+[node name="Hud" type="Node2D"]
+script = ExtResource("1_1etfg")
+
+[node name="CitiyWin" type="Sprite2D" parent="."]
+position = Vector2(638, 373)
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_qpvh6")
+
+[node name="Panel" type="Panel" parent="."]
+offset_left = 188.0
+offset_top = 66.0
+offset_right = 1009.0
+offset_bottom = 538.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_1etfg")
+
+[node name="Label" type="Label" parent="Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 0.16
+anchor_bottom = 0.165
+offset_left = 67.0
+offset_top = 126.0
+offset_right = 616.64
+offset_bottom = 114.12
+text = "Eco-Hackers: Missió ODS"
+label_settings = SubResource("LabelSettings_7hsmw")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Button" type="Button" parent="Panel"]
+layout_mode = 0
+offset_left = 300.0
+offset_top = 279.0
+offset_right = 473.0
+offset_bottom = 328.0
+theme_override_fonts/font = ExtResource("2_fls4u")
+theme_override_font_sizes/font_size = 30
+text = "Començar"
+
+[connection signal="pressed" from="Panel/Button" to="." method="_on_button_pressed"]

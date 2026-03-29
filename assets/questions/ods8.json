@@ -1,0 +1,144 @@
+[
+	{
+		"index": 0,
+		"question": "El treball digne inclou salari just.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 1,
+		"question": "Quina situació és treball digne?",
+		"options": [
+			"A) Condicions segures",
+			"B) Explotació laboral",
+			"C) Treball infantil"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 2,
+		"question": "El treball infantil no és un problema global.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 3,
+		"question": "Quin sector crea ocupació?",
+		"options": [
+			"A) Desert",
+			"B) Indústria",
+			"C) Pedra"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 4,
+		"question": "La seguretat laboral és important.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 5,
+		"question": "Quina acció millora l’economia?",
+		"options": [
+			"A) Innovació",
+			"B) Destrucció",
+			"C) Abandonament"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 6,
+		"question": "L’educació ajuda a aconseguir millors treballs.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 7,
+		"question": "Quin dret laboral és important?",
+		"options": [
+			"A) Vacances pagades",
+			"B) Treball sense salari",
+			"C) Treball forçat"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 8,
+		"question": "Les empreses sostenibles poden crear ocupació.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 9,
+		"question": "Què és l’emprenedoria?",
+		"options": [
+			"A) Tancar empreses",
+			"B) No treballar",
+			"C) Crear un negoci"
+		],
+		"correctOptionIndex": 2
+	},
+	{
+		"index": 10,
+		"question": "La desigualtat salarial no és un problema laboral.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 11,
+		"question": "Quin factor ajuda al creixement econòmic?",
+		"options": [
+			"A) Inversió",
+			"B) Destrucció de recursos",
+			"C) Falta d’educació"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 12,
+		"question": "Les bones condicions laborals milloren la qualitat de vida.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 13,
+		"question": "Quina acció millora el treball?",
+		"options": [
+			"A) Eliminació drets",
+			"B) Formació professional",
+			"C) Ignorar educació"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 14,
+		"question": "L’ODS 8 promou ocupació sostenible.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	}
+]

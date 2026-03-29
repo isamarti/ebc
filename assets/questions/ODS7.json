@@ -1,0 +1,125 @@
+	[
+		{
+			"index": 0,
+			"question": "Les energies renovables no s'esgoten fàcilment?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 1,
+			"question": "Quina energia és renovable?",
+			"options": [
+				"A)Carbó",
+				"B)Solar",
+				"C)Petroli"
+			],
+			"correctOptionIndex": 1
+		},
+		{
+			"index": 2,
+			"question": "L'energia eòlica utilitza el vent?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 3,
+			"question": "Quin aparel consumeix electricitat?",
+			"options": [
+				"A)Frigorífic",
+				"B)Paper",
+				"C)Pedra"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 4,
+			"question": " L’eficiència energètica ajuda a gastar menys energia?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 5,
+			"question": "Quina acció estalvia energia?",
+			"options": [
+				"A) Apagar llums innecessàries",
+				"B)Deixar tot encés",
+				"C)Gastar més electricitat"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 6,
+			"question": "El petroli és una energia no renovable?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 7,
+			"question": "Quin dispositiu genera energia solar?",
+			"options": [
+				"A)Panell solar",
+				"B)Televisor",
+				"C) Microones"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 8,
+			"question": "L’energia renovable ajuda a reduir emissions?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 9,
+			"question": "Quina energia utilitza el vent?",
+			"options": [
+				"A)Eòlica",
+				"B)Nuclear",
+				"C) Gas"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 10,
+			"question": "Molts països volen augmentar l’ús d’energies renovables?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 11,
+			"question": "Quin és un avantatge de l’energia solar?",
+			"options": [
+				"A)No contamina durant l’ús",
+				"B)Contamina molt",
+				"C) Destrueix boscos"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 12,
+			"question": "L’ODS 7 promou energia accessible per a tots?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	]

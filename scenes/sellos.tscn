@@ -1,0 +1,46 @@
+[gd_scene load_steps=8 format=3 uid="uid://xny8m3tfeq8t"]
+
+[ext_resource type="Script" uid="uid://jil7nybyjcjf" path="res://scripts/sellos.gd" id="1_b7jr3"]
+[ext_resource type="Texture2D" uid="uid://xqvokc61hwbj" path="res://assets/art/interiors/nave.png" id="1_r6kc4"]
+[ext_resource type="Texture2D" uid="uid://dr5xsnme7j2bo" path="res://assets/art/sellos/dignidadBW.png" id="2_b7jr3"]
+[ext_resource type="Texture2D" uid="uid://d2nmfxqbqrihq" path="res://assets/art/sellos/transparenciaBW.png" id="3_3776w"]
+[ext_resource type="Texture2D" uid="uid://drwkn15y5ce2x" path="res://assets/art/sellos/justiciaBW.png" id="5_gnval"]
+[ext_resource type="Texture2D" uid="uid://dlu22dbuyqus2" path="res://assets/art/sellos/solidaridad.png" id="6_b7jr3"]
+[ext_resource type="Texture2D" uid="uid://cuyuau821qerr" path="res://assets/art/sellos/solidaridadBW.png" id="7_3776w"]
+
+[node name="Sellos" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_b7jr3")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Nave" type="Sprite2D" parent="."]
+position = Vector2(575.5, 324)
+scale = Vector2(0.410156, 0.420573)
+texture = ExtResource("1_r6kc4")
+
+[node name="DignidadBw" type="Sprite2D" parent="."]
+position = Vector2(370, 320)
+scale = Vector2(0.212283, 0.23534)
+texture = ExtResource("2_b7jr3")
+
+[node name="TransparenciaBw" type="Sprite2D" parent="."]
+position = Vector2(508, 316)
+scale = Vector2(0.208333, 0.232253)
+texture = ExtResource("3_3776w")
+
+[node name="JusticiaBw" type="Sprite2D" parent="."]
+position = Vector2(782, 317)
+scale = Vector2(0.222749, 0.236111)
+texture = ExtResource("5_gnval")
+
+[node name="Solidaridad" type="Sprite2D" parent="."]
+position = Vector2(647, 316)
+scale = Vector2(0.180048, 0.202841)
+texture = ExtResource("6_b7jr3")
+
+[node name="SolidaridadBW" type="Sprite2D" parent="."]
+position = Vector2(647, 316)
+scale = Vector2(0.180048, 0.202841)
+texture = ExtResource("7_3776w")

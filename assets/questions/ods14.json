@@ -1,0 +1,144 @@
+[
+	{
+		"index": 0,
+		"question": "Els oceans cobreixen gran part del planeta.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 1,
+		"question": "Quin animal viu al mar?",
+		"options": [
+			"A) Lleó",
+			"B) Dofí",
+			"C) Cavall"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 2,
+		"question": "El plàstic al mar no afecta animals marins.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 3,
+		"question": "Quin ecosistema és marí?",
+		"options": [
+			"A) Bosc",
+			"B) Escull de coral",
+			"C) Desert"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 4,
+		"question": "La pesca excessiva pot reduir poblacions de peixos.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 5,
+		"question": "Quina activitat pot contaminar oceans?",
+		"options": [
+			"A) Abocar plàstic",
+			"B) Protegir animals",
+			"C) Netejar platges"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 6,
+		"question": "Els oceans no regulen el clima.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 7,
+		"question": "Quin recurs prové del mar?",
+		"options": [
+			"A) Ferro",
+			"B) Peix",
+			"C) Carbó"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 8,
+		"question": "Protegir mars ajuda biodiversitat.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 9,
+		"question": "Quina acció protegeix oceans?",
+		"options": [
+			"A) Tirar residus",
+			"B) Reduir plàstics",
+			"C) Contaminar"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 10,
+		"question": "Els coralls són ecosistemes importants.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 11,
+		"question": "Quin problema afecta oceans?",
+		"options": [
+			"A) Aire net",
+			"B) Contaminació",
+			"C) Energia solar"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 12,
+		"question": "Les reserves marines no protegeixen espècies.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 13,
+		"question": "Quin animal és marí?",
+		"options": [
+			"A) Cavall",
+			"B) Elefant",
+			"C) Tauró"
+		],
+		"correctOptionIndex": 2
+	},
+	{
+		"index": 14,
+		"question": "L’ODS 14 protegeix oceans i mars.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	}
+]

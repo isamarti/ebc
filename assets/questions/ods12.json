@@ -1,0 +1,144 @@
+[
+	{
+		"index": 0,
+		"question": "El reciclatge no ajuda al medi ambient.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 1,
+		"question": "Quin hàbit és sostenible?",
+		"options": [
+			"A) Tirar tot",
+			"B) Reutilitzar productes",
+			"C) Comprar sense pensar"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 2,
+		"question": "El malbaratament d’aliments és un problema global.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 3,
+		"question": "Quin material es pot reciclar?",
+		"options": [
+			"A) Vidre",
+			"B) Petroli",
+			"C) Gas"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 4,
+		"question": "Consumir menys recursos ajuda al planeta.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 5,
+		"question": "Quin és un producte reutilitzable?",
+		"options": [
+			"A) Paper brut",
+			"B) Bossa d’un sol ús",
+			"C) Bossa de tela"
+		],
+		"correctOptionIndex": 2
+	},
+	{
+		"index": 6,
+		"question": "Comprar productes locals no pot reduir emissions.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 7,
+		"question": "Quin sector produeix béns?",
+		"options": [
+			"A) Esport",
+			"B) Indústria",
+			"C) Música"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 8,
+		"question": "Reduir residus és part de l'ODS 12?",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 9,
+		"question": "Quina acció redueix residus?",
+		"options": [
+			"A) Reparar objectes",
+			"B) Tirar-los",
+			"C) Cremar-los"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 10,
+		"question": "L’economia circular busca reutilitzar recursos.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 11,
+		"question": "Quin material és reciclable?",
+		"options": [
+			"A) Paper",
+			"B) Petroli",
+			"C) Gas"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 12,
+		"question": "Les empreses no han de produir de forma responsable.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 13,
+		"question": "Quin hàbit és responsable?",
+		"options": [
+			"A) Comprar sense límit",
+			"B) Comprar només el necessari",
+			"C) Tirar productes nous"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 14,
+		"question": "Consum responsable protegeix recursos naturals.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	}
+]

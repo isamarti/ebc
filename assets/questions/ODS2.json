@@ -1,0 +1,144 @@
+[
+	{
+		"index": 0,
+		"question": "L’ODS 2 busca acabar amb la fam al món.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 1,
+		"question": "Quina activitat ajuda a produir aliments?",
+		"options": [
+			"A) Agricultura sostenible",
+			"B) Deforestació massiva",
+			"C) Contaminació del sòl"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 2,
+		"question": "Una alimentació equilibrada és important per a la salut.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 3,
+		"question": "Quin problema afecta la seguretat alimentària?",
+		"options": [
+			"A) Sequera",
+			"B) Bons cultius",
+			"C) Reg eficient"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 4,
+		"question": "El malbaratament d’aliments és un problema global.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 5,
+		"question": "Quina acció redueix el malbaratament alimentari?",
+		"options": [
+			"A) Tirar menjar",
+			"B) Comprar només el necessari",
+			"C) Comprar en excés"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 6,
+		"question": "La fam només afecta zones rurals.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 7,
+		"question": "Quin sector és clau per a l’ODS 2?",
+		"options": [
+			"A) Turisme espacial",
+			"B) Cinema",
+			"C) Agricultura"
+		],
+		"correctOptionIndex": 2
+	},
+	{
+		"index": 8,
+		"question": "El canvi climàtic pot afectar la producció d’aliments.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 9,
+		"question": "Quina pràctica és sostenible?",
+		"options": [
+			"A) Sobreexplotació del sòl",
+			"B) Rotació de cultius",
+			"C) Desforestació"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 10,
+		"question": "La desnutrició pot afectar el desenvolupament infantil.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 11,
+		"question": "Quin nutrient és essencial?",
+		"options": [
+			"A) Proteïnes",
+			"B) Plàstic",
+			"C) Petroli"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 12,
+		"question": "L’agricultura sostenible protegeix el medi ambient.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	},
+	{
+		"index": 13,
+		"question": "Quin factor millora la producció agrícola?",
+		"options": [
+			"A) Erosió del sòl",
+			"B) Tecnologia agrícola",
+			"C) Contaminació"
+		],
+		"correctOptionIndex": 1
+	},
+	{
+		"index": 14,
+		"question": "Garantir aliments suficients és part dels ODS.",
+		"options": [
+			"Verdader",
+			"Fals"
+		],
+		"correctOptionIndex": 0
+	}
+]

@@ -1,0 +1,2330 @@
+[
+  {
+    "index": 0,
+    "question": "Reduir la pobresa és un dels objectius principals dels ODS?",
+    "options": [
+      "A)Verdader",
+      "B)Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 1,
+    "question": "La pobresa extrema significa no tindre recursos suficients per a cobrir necessitats bàsiques?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 2,
+    "question": "Quina és la mesura per reduir la pobresa?",
+    "options": [
+      "A)Crear oportunitats de treball",
+      "B)Augmentar la desigualtat",
+      "C)Eliminar l'educaciö"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 3,
+    "question": "L'educació pot ajudar a eixir de la pobresa?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 4,
+    "question": "Quin organisme internacional promou els ODS?",
+    "options": [
+      "A)ONU",
+      "B)FIFA",
+      "C)OTAN"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 5,
+    "question": "La pobresa extrema significa no tindre recursos suficients per a cobrir necessitats bàsiques?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 6,
+    "question": "Les ajudes socials poden ajudar a reduir la pobresa?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 7,
+    "question": "Quina situació pot provocar pobresa?",
+    "options": [
+      "A)Falta de treball",
+      "B)Accés a educació",
+      "C)Bons serveis públics"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 8,
+    "question": "La pobresa només existeix en països pobres?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 9,
+    "question": "Quina acció pot reduir la desigualtat econòmica?",
+    "options": [
+      "A)Accés a educació",
+      "B)Reduir salaris",
+      "C)Eliminar els serveis socials"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 10,
+    "question": "Les polítiques públiques poden reduir la pobresa?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 11,
+    "question": "Quin és un indicador de pobresa?",
+    "options": [
+      "A)Falta d'habitatge",
+      "B)Accés a sanitat",
+      "C)Bons salaris"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 12,
+    "question": "La pobresa pot afcetar la salut?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 13,
+    "question": "Quina acció pot ajudar a reduir la pobresa global?",
+    "options": [
+      "A)Eliminar ajudes",
+      "B)Tancar fronteres econòmiques",
+      "C)Cooperació internacional"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 14,
+    "question": "L'accés a serveis bàsics ajuda a reduir la pobresa?",
+    "options": [
+      "A)Verdader",
+      "B)Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 15,
+    "question": "Quin servei és bàsic per reduir la pobresa?",
+    "options": [
+      "A)Loteria",
+      "B)Publicitat",
+      "C)Educació"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 16,
+    "question": "L’ODS 2 busca acabar amb la fam al món.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 17,
+    "question": "Quina activitat ajuda a produir aliments?",
+    "options": [
+      "A) Agricultura sostenible",
+      "B) Deforestació massiva",
+      "C) Contaminació del sòl"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 18,
+    "question": "Una alimentació equilibrada és important per a la salut.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 19,
+    "question": "Quin problema afecta la seguretat alimentària?",
+    "options": [
+      "A) Sequera",
+      "B) Bons cultius",
+      "C) Reg eficient"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 20,
+    "question": "El malbaratament d’aliments és un problem global.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 21,
+    "question": "Quina acció redueix el malbaratament alimentari?",
+    "options": [
+      "A) Tirar menjar",
+      "B) Comprar només el necessari",
+      "C) Comprar en excés"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 22,
+    "question": "La fam només afecta zones rurals.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 23,
+    "question": "Quin sector és clau per a l’ODS 2?",
+    "options": [
+      "A) Turisme espacial",
+      "B) Cinema",
+      "C) Agricultura"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 24,
+    "question": "El canvi climàtic pot afectar la producció d’aliments.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 25,
+    "question": "Quina pràctica és sostenible?",
+    "options": [
+      "A) Sobreexplotació del sòl",
+      "B) Rotació de cultius",
+      "C) Desforestació"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 26,
+    "question": "La desnutrició pot afectar el desenvolupament infantil.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 27,
+    "question": "Quin nutrient és essencial?",
+    "options": [
+      "A) Proteïnes",
+      "B) Plàstic",
+      "C) Petroli"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 28,
+    "question": "L’agricultura sostenible protegeix el medi ambient.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 29,
+    "question": "Quin factor millora la producció agrícola?",
+    "options": [
+      "A) Erosió del sòl",
+      "B) Tecnologia agrícola",
+      "C) Contaminació"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 30,
+    "question": "Garantir aliments suficients és part dels ODS.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 31,
+    "question": "L'ODS 3 busca garantir una vida saludable per a totes les persones?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 32,
+    "question": "Quin hàbit millora la salut?",
+    "options": [
+      "A)Menjar només menjar ràpid",
+      "B)Dormir molt poc",
+      "C)Fer exercici"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 33,
+    "question": "Les vacunes ajuden a previndre malalties?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 34,
+    "question": "Què és essencial per a una bona salut?",
+    "options": [
+      "A)Alimentació equilibrada",
+      "B)Consum excessiu de sucre",
+      "C)Sedentarisme"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 35,
+    "question": "L'accés a la sanitat és important per al benestar?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 36,
+    "question": "Quin factor afecta la salut?",
+    "options": [
+      "A)Aire net",
+      "B)Contaminació de l'aire",
+      "C)Activitat física"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 37,
+    "question": "La salut mental també és part del benestar?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 38,
+    "question": "Quina acció prevé les malalties?",
+    "options": [
+      "A)Fumar",
+      "B)Rentar-se les mans",
+      "C)No dormir"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 39,
+    "question": "L'activitat física regular millora la salut?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 40,
+    "question": "Quin servei ajuda a millorar la salut pública?",
+    "options": [
+      "A)Casinos",
+      "B)Centres comercials",
+      "C)Hospitals"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 41,
+    "question": "L'aigua potable és importantper a la salut",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 42,
+    "question": "Quina substància és perjudicial per a la salut?",
+    "options": [
+      "A)Tabac",
+      "B)Fruita",
+      "C)Aigua"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 43,
+    "question": "Dormir bé ajuda a la salut mental?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 44,
+    "question": "Quina acció millora la salut mental?",
+    "options": [
+      "A)Descans adequat",
+      "B)Estrés constant",
+      "C)Falta de son"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 45,
+    "question": "Reduir accidents també forma part de l'ODS3?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 46,
+    "question": "L’ODS 4 promou educació inclusiva i de qualitat.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 47,
+    "question": "Què ajuda a millorar l’educació?",
+    "options": [
+      "A) Menys llibres",
+      "B) Falta d’escoles",
+      "C) Bons professors"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 48,
+    "question": "L’educació és clau per al desenvolupament sostenible.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 49,
+    "question": "Quin lloc està dedicat a l’educació?",
+    "options": [
+      "A) Escola",
+      "B) Estadi",
+      "C) Discoteca"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 50,
+    "question": "L’educació hauria de ser accessible per a tots.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 51,
+    "question": "Quina eina ajuda a aprendre?",
+    "options": [
+      "A) Llibres",
+      "B) Contaminació",
+      "C) Soroll constant"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 52,
+    "question": "L’educació pot reduir la pobresa.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 53,
+    "question": "Quina competència és important en educació?",
+    "options": [
+      "A) Desinformació",
+      "B) Pensament crític",
+      "C) Ignorància"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 54,
+    "question": "L’educació digital és cada vegada més important.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 55,
+    "question": "Quin recurs educatiu és digital?",
+    "options": [
+      "A) Plataforma online",
+      "B) Pedra",
+      "C) Fum"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 56,
+    "question": "Aprendre al llarg de la vida és important.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 57,
+    "question": "Què ajuda a estudiar millor?",
+    "options": [
+      "A) Soroll",
+      "B) Distracció constant",
+      "C) Concentració"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 58,
+    "question": "L’educació no fomenta la igualtat d’oportunitats.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 59,
+    "question": "Quin objectiu té l’educació?",
+    "options": [
+      "A) Desenvolupar coneixement",
+      "B) Reduir coneixement",
+      "C) Eliminar escoles"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 60,
+    "question": "L’educació ajuda a formar ciutadans responsables.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 61,
+    "question": "L'ODS 5 promou la igualtat de entre dones i homes?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 62,
+    "question": "Quina situació mostra igualtat?",
+    "options": [
+      "A)Mateix salari per mateix treball",
+      "B)Salaris diferents",
+      "C)Discriminació laboral"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 63,
+    "question": "La discriminació de gènere encara existeis en alguns llocs?",
+    "options": [
+      "A)Verdader",
+      "B)Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 64,
+    "question": "Quina acció promou la iugaltat?",
+    "options": [
+      "A)Mateixes oportunitats educatives",
+      "B)Excloure dones",
+      "C)Limitar drets"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 65,
+    "question": "L'educació ajuda a reduir desigualtats de gènere?",
+    "options": [
+      "A)Verdader",
+      "B)Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 66,
+    "question": "Quin dret és bàsic?",
+    "options": [
+      "A)Dret a excloure",
+      "B)Dret a discriminar",
+      "C)Dret a l'educació"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 67,
+    "question": "Les dones han de tindre les mateixes oportunitats laborals?",
+    "options": [
+      "A)Verdader",
+      "B)Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 68,
+    "question": "Que promou l'ODS 5?",
+    "options": [
+      "A)Exclusió",
+      "B)Igualtat",
+      "C)Desigualtat"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 69,
+    "question": "L'empoderament de les dones és important per al desenvolupament?",
+    "options": [
+      "A)Verdader",
+      "B)Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 70,
+    "question": "Quin problema tracta l'ODS 5?",
+    "options": [
+      "A)Violència de gènere",
+      "B)Reciclatge",
+      "C)Energia solar"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 71,
+    "question": "L'ODS 5 busca eliminar la violència sobre les dones?",
+    "options": [
+      "A)Verdader",
+      "B)Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 72,
+    "question": "Quin valor promou l'ODS 5?",
+    "options": [
+      "A)Respecte",
+      "B)Desigualtat",
+      "C)Intolerància"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 73,
+    "question": "La igualtat de gènere beneficia a tota la societat?",
+    "options": [
+      "A)Verdader",
+      "B)Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 74,
+    "question": "L’accés a aigua potable és un dret bàsic.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 75,
+    "question": "Quina és una font d’aigua potable?",
+    "options": [
+      "A) Riu contaminat",
+      "B) Aigua tractada",
+      "C) Aigua amb petroli"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 76,
+    "question": "La contaminació de rius no afecta la salut humana.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 77,
+    "question": "Quina acció ajuda a estalviar aigua?",
+    "options": [
+      "A) Tancar l’aixeta mentre et raspalles les dents",
+      "B) Deixar l’aixeta oberta",
+      "C) Gastar més aigua"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 78,
+    "question": "Moltes persones al món encara no tenen accés a aigua potable.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 79,
+    "question": "Quin sistema ajuda a netejar l’aigua?",
+    "options": [
+      "A) Depuradora",
+      "B) Fàbrica de fum",
+      "C) Incineradora"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 80,
+    "question": "L’aigua és essencial per a l’agricultura.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 81,
+    "question": "Quina acció contamina l’aigua?",
+    "options": [
+      "A) Abocar productes químics",
+      "B) Tractar aigües residuals",
+      "C) Filtrar aigua"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 82,
+    "question": "El sanejament adequat prevé malalties.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 83,
+    "question": "Quin element és important per al sanejament?",
+    "options": [
+      "A) Sorra",
+      "B) Fum",
+      "C) Clavegueram"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 84,
+    "question": "L’aigua dolça és limitada al planeta.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 85,
+    "question": "Quina activitat consumeix molta aigua?",
+    "options": [
+      "A) Escriure",
+      "B) Agricultura",
+      "C) Llegir"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 86,
+    "question": "Protegir rius i llacs no ajuda a garantir aigua neta.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 87,
+    "question": "Quin problema afecta l’aigua?",
+    "options": [
+      "A) Sequera",
+      "B) Música",
+      "C) Cinema"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 88,
+    "question": "L’ODS 6 busca millorar l’accés a sanejament.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 89,
+    "question": "Les energies renovables no s'esgoten fàcilment?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 90,
+    "question": "Quina energia és renovable?",
+    "options": [
+      "A)Carbó",
+      "B)Solar",
+      "C)Petroli"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 91,
+    "question": "L'energia eòlica utilitza el vent?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 92,
+    "question": "Quin aparel consumeix electricitat?",
+    "options": [
+      "A)Frigorífic",
+      "B)Paper",
+      "C)Pedra"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 93,
+    "question": " L’eficiència energètica ajuda a gastar menys energia?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 94,
+    "question": "Quina acció estalvia energia?",
+    "options": [
+      "A) Apagar llums innecessàries",
+      "B)Deixar tot encés",
+      "C)Gastar més electricitat"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 95,
+    "question": "El petroli és una energia no renovable?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 96,
+    "question": "Quin dispositiu genera energia solar?",
+    "options": [
+      "A)Panell solar",
+      "B)Televisor",
+      "C) Microones"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 97,
+    "question": "L’energia renovable ajuda a reduir emissions?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 98,
+    "question": "Quina energia utilitza el vent?",
+    "options": [
+      "A)Eòlica",
+      "B)Nuclear",
+      "C) Gas"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 99,
+    "question": "Molts països volen augmentar l’ús d’energies renovables?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 100,
+    "question": "Quin és un avantatge de l’energia solar?",
+    "options": [
+      "A)No contamina durant l’ús",
+      "B)Contamina molt",
+      "C) Destrueix boscos"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 101,
+    "question": "L’ODS 7 promou energia accessible per a tots?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 102,
+    "question": "El treball digne inclou salari just.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 103,
+    "question": "Quina situació és treball digne?",
+    "options": [
+      "A) Condicions segures",
+      "B) Explotació laboral",
+      "C) Treball infantil"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 104,
+    "question": "El treball infantil no és un problema global.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 105,
+    "question": "Quin sector crea ocupació?",
+    "options": [
+      "A) Desert",
+      "B) Indústria",
+      "C) Pedra"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 106,
+    "question": "La seguretat laboral és important.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 107,
+    "question": "Quina acció millora l’economia?",
+    "options": [
+      "A) Innovació",
+      "B) Destrucció",
+      "C) Abandonament"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 108,
+    "question": "L’educació ajuda a aconseguir millors treballs.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 109,
+    "question": "Quin dret laboral és important?",
+    "options": [
+      "A) Vacances pagades",
+      "B) Treball sense salari",
+      "C) Treball forçat"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 110,
+    "question": "Les empreses sostenibles poden crear ocupació.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 111,
+    "question": "Què és l’emprenedoria?",
+    "options": [
+      "A) Tancar empreses",
+      "B) No treballar",
+      "C) Crear un negoci"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 112,
+    "question": "La desigualtat salarial no és un problema laboral.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 113,
+    "question": "Quin factor ajuda al creixement econòmic?",
+    "options": [
+      "A) Inversió",
+      "B) Destrucció de recursos",
+      "C) Falta d’educació"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 114,
+    "question": "Les bones condicions laborals milloren la qualitat de vida.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 115,
+    "question": "Quina acció millora el treball?",
+    "options": [
+      "A) Eliminació drets",
+      "B) Formació professional",
+      "C) Ignorar educació"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 116,
+    "question": "L’ODS 8 promou ocupació sostenible.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 117,
+    "question": "Les infraestructures inclouen carreteres i ponts?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 118,
+    "question": "Quin és un exemple d’infraestructura?",
+    "options": [
+      "A)Autopista",
+      "B)Llibre",
+      "C)Jardí"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 119,
+    "question": "La innovació tecnològica pot millorar la producció?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 120,
+    "question": "Quin sector impulsa la indústria?",
+    "options": [
+      "A) Fabricació",
+      "B) Música",
+      "C)Turisme espacial"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 121,
+    "question": "Les infraestructures modernes no faciliten el transport?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 122,
+    "question": "Quina tecnologia millora la comunicació?",
+    "options": [
+      "A)  Internet",
+      "B) Pedra",
+      "C)Fum"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 123,
+    "question": "La innovació ajuda a resoldre problemes globals?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 124,
+    "question": "Quina activitat és innovadora?",
+    "options": [
+      "A)Crear noves tecnologies",
+      "B)No canviar res",
+      "C)Destruir invents"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 125,
+    "question": "Les infraestructures sostenibles redueixen impacte ambiental?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 126,
+    "question": "Quin exemple és una innovació energètica?",
+    "options": [
+      "A) Panells solars",
+      "B)Carbó",
+      "C)Petroli"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 127,
+    "question": "Les empreses innovadores poden generar ocupació?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 128,
+    "question": "Què ajuda al desenvolupament industrial?",
+    "options": [
+      "A) Investigació",
+      "B)Ignorància",
+      "C) Destrucció"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 129,
+    "question": "Les infraestructures no connecten ciutats i regions?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 130,
+    "question": "Quina infraestructura facilita comerç?",
+    "options": [
+      "A)Port",
+      "B)Bosc",
+      "C) Desert"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 131,
+    "question": "L’ODS 9 promou desenvolupament tecnològic sostenible?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 132,
+    "question": "L’ODS 10 busca aumentar desigualtats socials.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 133,
+    "question": "Quina acció redueix desigualtats?",
+    "options": [
+      "A) Exclusió",
+      "B) Igualtat d’oportunitats",
+      "C) Discriminació"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 134,
+    "question": "Les desigualtats poden ser econòmiques.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 135,
+    "question": "Quin dret ajuda a reduir desigualtats?",
+    "options": [
+      "A) Educació",
+      "B) Discriminació",
+      "C) Exclusió"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 136,
+    "question": "Les desigualtats existeixen entre països.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 137,
+    "question": "Quina política pot reduir desigualtats?",
+    "options": [
+      "A) Protecció social",
+      "B) Eliminació drets",
+      "C) Discriminació"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 138,
+    "question": "La inclusió social és important per a reduir desigualtats.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 139,
+    "question": "Quin valor ajuda a reduir desigualtats?",
+    "options": [
+      "A) Racisme",
+      "B) Intolerància",
+      "C) Respecte"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 140,
+    "question": "Les desigualtats no poden afectar oportunitats laborals.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 141,
+    "question": "Quin grup pot patir desigualtats?",
+    "options": [
+      "A) Minories",
+      "B) Només rics",
+      "C) Només governs"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 142,
+    "question": "L’accés a serveis bàsics redueix desigualtats.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 143,
+    "question": "Quin servei és bàsic?",
+    "options": [
+      "A) Casino",
+      "B) Sanitat",
+      "C) Publicitat"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 144,
+    "question": "Les ciutats sostenibles busquen reduir contaminació?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 145,
+    "question": "Quin transport és sostenible?",
+    "options": [
+      "A)Bicicleta",
+      "B) Camió antic",
+      "C)Cotxe contaminant"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 146,
+    "question": "Els espais verds milloren la qualitat de vida urbana?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 147,
+    "question": "Quin és un espai verd?",
+    "options": [
+      "A)Parc",
+      "B) Fàbrica",
+      "C)Centre comercial"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 148,
+    "question": "El transport públic ajuda a reduir emissions?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 149,
+    "question": "Quin mitjà és transport públi?",
+    "options": [
+      "A)Moto",
+      "B)  Bicicleta privada",
+      "C) Metro"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 150,
+    "question": "L’habitatge digne no és part de ciutats sostenibles?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 151,
+    "question": "Quin problema afecta ciutats?",
+    "options": [
+      "A)Contaminació",
+      "B)Aire net",
+      "C)Parcs"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 152,
+    "question": "Les ciutats concentren gran part de la població mundial?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 153,
+    "question": "Quina acció millora una ciutat?",
+    "options": [
+      "A) Zones verdes",
+      "B) Més contaminació",
+      "C)Soroll constant"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 154,
+    "question": "La planificació urbana és important?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 155,
+    "question": "Quin element millora mobilitat urbana?",
+    "options": [
+      "A) Menys transport",
+      "B) Més trànsit",
+      "C)Carril bici"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 156,
+    "question": "Les ciutats sostenibles no busquen eficiència energètica?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 157,
+    "question": "Quina energia pot usar una ciutat sostenible?",
+    "options": [
+      "A)Petroli",
+      "B) Solar",
+      "C)Carbó"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 158,
+    "question": "L’ODS 11 promou comunitats segures i sostenibles?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 159,
+    "question": "El reciclatge no ajuda al medi ambient.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 160,
+    "question": "Quin hàbit és sostenible?",
+    "options": [
+      "A) Tirar tot",
+      "B) Reutilitzar productes",
+      "C) Comprar sense pensar"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 161,
+    "question": "El malbaratament d’aliments és un problema global.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 162,
+    "question": "Quin material es pot reciclar?",
+    "options": [
+      "A) Vidre",
+      "B) Petroli",
+      "C) Gas"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 163,
+    "question": "Consumir menys recursos ajuda al planeta.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 164,
+    "question": "Quin és un producte reutilitzable?",
+    "options": [
+      "A) Paper brut",
+      "B) Bossa d’un sol ús",
+      "C) Bossa de tela"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 165,
+    "question": "Comprar productes locals no pot reduir emissions.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 166,
+    "question": "Quin sector produeix béns?",
+    "options": [
+      "A) Esport",
+      "B) Indústria",
+      "C) Música"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 167,
+    "question": "Reduir residus és part de l'ODS 12?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 168,
+    "question": "Quina acció redueix residus?",
+    "options": [
+      "A) Reparar objectes",
+      "B) Tirar-los",
+      "C) Cremar-los"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 169,
+    "question": "L’economia circular busca reutilitzar recursos.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 170,
+    "question": "Quin material és reciclable?",
+    "options": [
+      "A) Paper",
+      "B) Petroli",
+      "C) Gas"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 171,
+    "question": "Les empreses no han de produir de forma responsable.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 172,
+    "question": "Quin hàbit és responsable?",
+    "options": [
+      "A) Comprar sense límit",
+      "B) Comprar només el necessari",
+      "C) Tirar productes nous"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 173,
+    "question": "Consum responsable protegeix recursos naturals.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 174,
+    "question": "El canvi climàtic afecta el planeta?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 175,
+    "question": "Quin gas contribueix al canvi climàtic?",
+    "options": [
+      "A) Nitrogen",
+      "B) CO₂",
+      "C)Oxigen"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 176,
+    "question": "Les energies renovables ajuden a reduir emissions?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 177,
+    "question": "Quin fenomen està relacionat amb canvi climàtic?",
+    "options": [
+      "A) Augment temperatura global",
+      "B) Refredament  permanent",
+      "C)Absència de clima"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 178,
+    "question": "Les emissions de combustibles fòssils afecten el clima?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 179,
+    "question": "Quin transport contamina menys?",
+    "options": [
+      "A)Bicicleta",
+      "B) Cotxe antic",
+      "C)Avió privat"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 180,
+    "question": " Plantar arbres ajuda contra el canvi climàtic?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 181,
+    "question": "Quin sector emet molt CO₂?",
+    "options": [
+      "A) Transport",
+      "B)  Biblioteca",
+      "C) Biblioteca"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 182,
+    "question": "El canvi climàtic pot no provocar sequeres?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 183,
+    "question": "Quina energia és més neta?",
+    "options": [
+      "A)Solar",
+      "B)Carbó",
+      "C) Petroli"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 184,
+    "question": "Reduir emissions és clau per al clima?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 185,
+    "question": "Quin acord internacional tracta el clima?",
+    "options": [
+      "A)Acord musical",
+      "B)Acord de París",
+      "C) Acord esportiu"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 186,
+    "question": "El canvi climàtic afecta ecosistemes.?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 187,
+    "question": "Quina acció redueix emissions?",
+    "options": [
+      "A)Tallar boscos",
+      "B)Cremar carbó",
+      "C) Energia renovable"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 188,
+    "question": "L’ODS 13 tracta l’acció climàtica global?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 189,
+    "question": "Els oceans cobreixen gran part del planeta.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 190,
+    "question": "Quin animal viu al mar?",
+    "options": [
+      "A) Lleó",
+      "B) Dofí",
+      "C) Cavall"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 191,
+    "question": "El plàstic al mar no afecta animals marins.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 192,
+    "question": "Quin ecosistema és marí?",
+    "options": [
+      "A) Bosc",
+      "B) Escull de coral",
+      "C) Desert"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 193,
+    "question": "La pesca excessiva pot reduir poblacions de peixos.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 194,
+    "question": "Quina activitat pot contaminar oceans?",
+    "options": [
+      "A) Abocar plàstic",
+      "B) Protegir animals",
+      "C) Netejar platges"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 195,
+    "question": "Els oceans no regulen el clima.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 196,
+    "question": "Quin recurs prové del mar?",
+    "options": [
+      "A) Ferro",
+      "B) Peix",
+      "C) Carbó"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 197,
+    "question": "Protegir mars ajuda biodiversitat.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 198,
+    "question": "Quina acció protegeix oceans?",
+    "options": [
+      "A) Tirar residus",
+      "B) Reduir plàstics",
+      "C) Contaminar"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 199,
+    "question": "Els coralls són ecosistemes importants.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 200,
+    "question": "Quin problema afecta oceans?",
+    "options": [
+      "A) Aire net",
+      "B) Contaminació",
+      "C) Energia solar"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 201,
+    "question": "Les reserves marines no protegeixen espècies.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 202,
+    "question": "Quin animal és marí?",
+    "options": [
+      "A) Cavall",
+      "B) Elefant",
+      "C) Tauró"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 203,
+    "question": "L’ODS 14 protegeix oceans i mars.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 204,
+    "question": "Els boscos són importants per al planeta?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 205,
+    "question": "Quin animal viu en bosc?",
+    "options": [
+      "A) Cérvol",
+      "B) Tauró",
+      "C)Dofí"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 206,
+    "question": "La desforestació és un problema ambiental?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 207,
+    "question": "Quina acció protegeix boscos?",
+    "options": [
+      "A) Cremar boscos",
+      "B) Reforestació",
+      "C) Tallar arbres sense control"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 208,
+    "question": "La biodiversitat és important per als ecosistemes?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 209,
+    "question": "Quin ecosistema és terrestre?",
+    "options": [
+      "A) Selva",
+      "B) Mar",
+      "C) Oceà"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 210,
+    "question": "Algunes espècies estan en perill d’extinció?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 211,
+    "question": "Quin animal terrestre és salvatge?",
+    "options": [
+      "A) Tigre",
+      "B) Dofí",
+      "C)Balena"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 212,
+    "question": "Protegir la fauna ajuda l’equilibri ecològic?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 213,
+    "question": "Quin problema afecta sòls?",
+    "options": [
+      "A)Aire pur",
+      "B) Desertificació",
+      "C)Aigua neta"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 214,
+    "question": "Les reserves naturals protegeixen espècies.?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 215,
+    "question": "Quin recurs prové del bosc?",
+    "options": [
+      "A)Petroli",
+      "B)Gas",
+      "C)Fusta"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 216,
+    "question": "Les plantes no produeixen oxigen?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 217,
+    "question": "Quin element és clau en ecosistemes?",
+    "options": [
+      "A)Biodiversitat",
+      "B)Contaminació",
+      "C)Destrucció"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 218,
+    "question": "L’ODS 15 protegeix ecosistemes terrestres?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 219,
+    "question": "Les societats pacífiques són més estables.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 220,
+    "question": "Quin valor promou la pau?",
+    "options": [
+      "A) Violència",
+      "B) Justícia",
+      "C) Corrupció"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 221,
+    "question": "La corrupció no debilita institucions.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 222,
+    "question": "Quin dret és fonamental?",
+    "options": [
+      "A) Dret a un judici just",
+      "B) Dret a violència",
+      "C) Dret a corrupció"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 223,
+    "question": "Les lleis ajuden a mantindre ordre social.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 224,
+    "question": "Quin organisme fa lleis?",
+    "options": [
+      "A) Parlament",
+      "B) Estadi",
+      "C) Museu"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 225,
+    "question": "La transparència no és important en govern.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 226,
+    "question": "Quin problema tracta l'ODS 16?",
+    "options": [
+      "A) Agricultura",
+      "B) Energia solar",
+      "C) Corrupció"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 227,
+    "question": "La seguretat ciutadana és important.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 228,
+    "question": "Quin valor ajuda convivència?",
+    "options": [
+      "A) Odi",
+      "B) Violència",
+      "C) Respecte"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 229,
+    "question": "Els drets humans són universals.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 230,
+    "question": "Quin sistema resol conflictes legals?",
+    "options": [
+      "A) Publicitat",
+      "B) Justícia",
+      "C) Música"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 231,
+    "question": "Institucions fortes milloren democràcia.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 232,
+    "question": "Quin valor ajuda governança?",
+    "options": [
+      "A) Transparència",
+      "B) Corrupció",
+      "C) Engany"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 233,
+    "question": "L’ODS 16 promou pau i justícia.",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 234,
+    "question": "La cooperació internacional és important per als ODS?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 235,
+    "question": "Qui pot treballar pels ODS?",
+    "options": [
+      "A)Només governs",
+      "B)Governs, empreses i ciutadans",
+      "C)Només empreses"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 236,
+    "question": "Les aliances ajuden a compartir recursos?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 237,
+    "question": "Quin organisme va crear els ODS?",
+    "options": [
+      "A)FIFA",
+      "B)ONU",
+      "C)FIFA"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "index": 238,
+    "question": "Els països poden col·laborar per resoldre problemes globals?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 239,
+    "question": "Quin tipus d’aliança ajuda als ODS?",
+    "options": [
+      "A)Competència destructiva",
+      "B)Conflictes",
+      "C)Cooperació internacional"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 240,
+    "question": "Les empreses també poden contribuir als ODS?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 241,
+    "question": "Quin recurs es pot compartir entre països?",
+    "options": [
+      "A)Tecnologia",
+      "B)Contaminació",
+      "C)Cooperació"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 242,
+    "question": "Les ONG participen en projectes de desenvolupament?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 243,
+    "question": "Quin sector ajuda al desenvolupament sostenible?",
+    "options": [
+      "A)Sector destructiu",
+      "B) Sector criminal",
+      "C) Sector públic"
+    ],
+    "correctOptionIndex": 2
+  },
+  {
+    "index": 244,
+    "question": "L’educació sobre ODS ajuda a aconseguir-los?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "index": 245,
+    "question": "L’ODS 17 reforça la cooperació mundial?",
+    "options": [
+      "Verdader",
+      "Fals"
+    ],
+    "correctOptionIndex": 0
+  }
+]

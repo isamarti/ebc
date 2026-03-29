@@ -1,0 +1,44 @@
+[gd_scene load_steps=5 format=3 uid="uid://cgu5yraphujos"]
+
+[ext_resource type="Texture2D" uid="uid://bjcsbb2dp5eb" path="res://assets/art/utils/CITY_LOSE.png" id="1_r6nsb"]
+[ext_resource type="FontFile" uid="uid://cs8t87vi6udjh" path="res://assets/VCR_OSD_MONO_1.001.ttf" id="2_10rtl"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_yxbqr"]
+bg_color = Color(0.640362, 0.618186, 0.247343, 0.776471)
+
+[sub_resource type="LabelSettings" id="LabelSettings_tylv2"]
+font = ExtResource("2_10rtl")
+font_size = 50
+
+[node name="Lose" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="CitiyWin" type="Sprite2D" parent="."]
+modulate = Color(1, 1, 1, 0.411765)
+position = Vector2(609, 327)
+scale = Vector2(0.45, 0.45)
+texture = ExtResource("1_r6nsb")
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 0
+offset_left = 253.0
+offset_top = 89.0
+offset_right = 994.0
+offset_bottom = 510.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_yxbqr")
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 268.0
+offset_top = 240.0
+offset_right = 1001.0
+offset_bottom = 378.0
+text = "Fi del temps. 
+La cobdícia grisa guanya.
+"
+label_settings = SubResource("LabelSettings_tylv2")

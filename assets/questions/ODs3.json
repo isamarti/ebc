@@ -1,0 +1,144 @@
+	[
+		{
+			"index": 0,
+			"question": "L'ODS 3 busca garantir una vida saludable per a totes les persones?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 1,
+			"question": "Quin hàbit millora la salut?",
+			"options": [
+				"A)Menjar només menjar ràpid",
+				"B)Dormir molt poc",
+				"C)Fer exercici"
+			],
+			"correctOptionIndex": 2
+		},
+		{
+			"index": 2,
+			"question": "Les vacunes ajuden a previndre malalties?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 3,
+			"question": "Què és essencial per a una bona salut?",
+			"options": [
+				"A)Alimentació equilibrada",
+				"B)Consum excessiu de sucre",
+				"C)Sedentarisme"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 4,
+			"question": "L'accés a la sanitat és important per al benestar?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 5,
+			"question": "Quin factor afecta la salut?",
+			"options": [
+				"A)Aire net",
+				"B)Contaminació de l'aire",
+				"C)Activitat física"
+			],
+			"correctOptionIndex": 1
+		},
+		{
+			"index": 6,
+			"question": "La salut mental també és part del benestar?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 7,
+			"question": "Quina acció prevé les malalties?",
+			"options": [
+				"A)Fumar",
+				"Rentar-se les mans",
+				"C)No dormir"
+			],
+			"correctOptionIndex": 1
+		},
+		{
+			"index": 8,
+			"question": "L'activitat física regular millora la salut?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 9,
+			"question": "Quin servei ajuda a millorar la salut pública?",
+			"options": [
+				"A)Casinos",
+				"B)Centres comercials",
+				"C)Hospitals"
+			],
+			"correctOptionIndex": 2
+		},
+		{
+			"index": 10,
+			"question": "L'aigua potable és importantper a la salut",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 11,
+			"question": "Quina substància és perjudicial per a la salut?",
+			"options": [
+				"A)Tabac",
+				"B)Fruita",
+				"C)Aigua"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 12,
+			"question": "Dormir bé ajuda a la salut mental?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 13,
+			"question": "Quina acció millora la salut mental?",
+			"options": [
+				"A)Descans adequat",
+				"B)Estrés constant",
+				"C)Falta de son"
+			],
+			"correctOptionIndex": 0
+		},
+		{
+			"index": 14,
+			"question": "Reduir accidents també forma part de l'ODS3?",
+			"options": [
+				"Verdader",
+				"Fals"
+			],
+			"correctOptionIndex": 0
+		}
+	]
