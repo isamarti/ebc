@@ -13,7 +13,7 @@ config_version=5
 config/name="EBC"
 run/main_scene="uid://b21c3sy41bf60"
 config/features=PackedStringArray("4.4", "GL Compatibility")
-config/icon="res://icon.svg"
+config/icon="uid://cxibw17ugm6a0"
 
 [autoload]
 
