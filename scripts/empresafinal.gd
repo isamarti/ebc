@@ -5,6 +5,8 @@ extends Node2D
 
 func _ready() -> void:
 	$Board.visible=false
+	Globals.bg_music.stream = preload("res://assets/music/Iron_Teeth_Grinding.mp3")
+	Globals.bg_music.play()
 
 
 func start_questionnaire():

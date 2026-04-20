@@ -21,6 +21,7 @@ texture = ExtResource("1_mddm0")
 
 [node name="Question" type="Label" parent="."]
 custom_minimum_size = Vector2(30, 0)
+layout_mode = 0
 offset_left = 383.0
 offset_top = 145.0
 offset_right = 644.0
